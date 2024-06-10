@@ -1,0 +1,10 @@
+type: morphism
+name: degenerating family of conics
+description: The morphism induced by the ring morphism $\QQ[x, y] \to \QQ[t]$ given by $t \mapsto xy$.
+with:
+  source: AA-2-QQ
+  target: AA-1-QQ
+adjectives:
+  smooth: false
+  closed: false
+  locally-of-finite-presentation: true

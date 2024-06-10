@@ -1,0 +1,10 @@
+type: morphism
+name: $\AA^1_\QQ$ to nodal cubic
+description: The morphism induced by the ring morphism $\QQ[x, y] / (y^2 - x^3 - x^2) \to \QQ[t]$ given by $x \mapsto t^2 - 1$ and $y \mapsto t^3 - t$.
+with:
+  source: AA-1-QQ
+  target: nodal-cubic
+adjectives:
+  flat: false
+  homeomorphism: false
+  unramified: true

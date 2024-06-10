@@ -1,0 +1,9 @@
+type: morphism
+name: $\Spec \QQ[\sqrt{2}] \to \Spec \QQ$
+with:
+  source: Spec-QQ-sqrt-2
+  target: Spec-QQ
+adjectives:
+  flat: true
+  closed-immersion: false
+  homeomorphism: true

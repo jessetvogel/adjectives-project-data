@@ -1,0 +1,8 @@
+type: morphism
+name: $\AA^2_\QQ \setminus \{ (0, 0) \} \to \AA^2_\QQ$
+with:
+  source: AA-2-QQ-minus-origin
+  target: AA-2-QQ
+adjectives:
+  open-immersion: true
+  surjective: false

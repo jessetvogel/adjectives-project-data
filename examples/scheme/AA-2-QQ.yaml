@@ -1,0 +1,6 @@
+type: scheme
+name: $\AA^2_\QQ$
+description: The affine plane over the rational numbers.
+adjectives:
+  affine: true
+  integral: true

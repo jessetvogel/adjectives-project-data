@@ -1,0 +1,8 @@
+type: morphism
+name: cusp to $\Spec \QQ$
+with:
+  source: cusp
+  target: Spec-QQ
+adjectives:
+  unramified: false
+  flat: true

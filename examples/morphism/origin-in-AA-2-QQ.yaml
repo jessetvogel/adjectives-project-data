@@ -1,0 +1,8 @@
+type: morphism
+name: inclusion origin in plane
+with:
+  source: Spec-QQ
+  target: AA-1-QQ
+adjectives:
+  closed-immersion: true
+  surjective: false

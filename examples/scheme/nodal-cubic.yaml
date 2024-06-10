@@ -1,0 +1,6 @@
+type: scheme
+name: nodal cubic
+description: The scheme $\Spec \QQ[x, y] / (y^2 - x^3 - x^2)$.
+adjectives:
+  affine: true
+  integral: [ true, "The polynomial $f = y^2 - x^3 - x^2$ is irreducible, so $\\QQ[x, y] / (f)$ is a domain."]

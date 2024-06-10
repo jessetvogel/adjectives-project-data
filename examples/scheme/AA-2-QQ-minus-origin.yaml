@@ -1,0 +1,7 @@
+type: scheme
+name: $\AA^2_\QQ \setminus \{ (0, 0) \}$
+description: The open complement of the origin inside the affine plane over the rational numbers.
+adjectives:
+  affine: false
+  integral: true
+  quasi-compact: true

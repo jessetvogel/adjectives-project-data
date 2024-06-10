@@ -1,0 +1,5 @@
+type: morphism
+name: $\Spec \QQ \to \Spec \ZZ$
+with:
+  source: Spec-QQ
+  target: Spec-ZZ

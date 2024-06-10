@@ -1,0 +1,7 @@
+type: morphism
+name: identity on $\Spec \ZZ$
+with:
+  source: Spec-ZZ
+  target: Spec-ZZ
+adjectives:
+  isomorphism: true
