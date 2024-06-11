@@ -1,0 +1,5 @@
+type: theorem
+name: homeomorphisms are closed
+given: morphism f
+if: f homeomorphism
+then: f closed

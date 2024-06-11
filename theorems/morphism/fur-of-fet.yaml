@@ -1,0 +1,5 @@
+type: theorem
+name: formally étale morphisms are formally unramified
+given: morphism f
+if: f formally-etale
+then: f formally-unramified

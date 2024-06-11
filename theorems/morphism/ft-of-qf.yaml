@@ -1,0 +1,5 @@
+type: theorem
+name: quasi-finite morphisms are of finite type
+given: morphism f
+if: f quasi-finite
+then: f of-finite-type
