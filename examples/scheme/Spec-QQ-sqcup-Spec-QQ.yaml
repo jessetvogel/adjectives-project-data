@@ -1,0 +1,7 @@
+type: scheme
+name: $\Spec \QQ \sqcup \Spec \QQ$
+description: The disjoint union of two copies of $\Spec \QQ$.
+adjectives:
+  affine: [true, As $\Spec \QQ \sqcup \Spec \QQ \cong \Spec (\QQ \times \QQ)$.]
+  connected: [false, It has two connected components.]
+  reduced: [true, The ring $\QQ \times QQ$ is reduced.]

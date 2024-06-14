@@ -2,5 +2,5 @@ type: scheme
 name: $\sqcup_{x \in \AA^1_\QQ} \Spec(\mathcal{O}_{\AA^1_\QQ, x})$
 description: The scheme $\sqcup_{x \in \AA^1_\QQ} \Spec(\mathcal{O}_{\AA^1_\QQ, x})$.
 adjectives:
-  connected: false
+  connected: [false, By construction.]
   regular: true

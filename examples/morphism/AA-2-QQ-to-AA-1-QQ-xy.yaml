@@ -5,6 +5,6 @@ with:
   source: AA-2-QQ
   target: AA-1-QQ
 adjectives:
-  smooth: false
-  closed: false
-  locally-of-finite-presentation: true
+  smooth: [false, Since $\partial (xy - t)/\partial x = y$ and $\partial (xy - t)/\partial y = x$ both vanish at the point $x = y = 0$.]
+  closed: [false, "The image of the closed set $\\{ xy^2 = 1 \\}$ is the open set $\\{ x \\ne 0 \\}$, which is not closed."]
+  locally-of-finite-presentation: [true, "Using the presentation $\\QQ[x, y] \\cong \\QQ[x, y, t] / (xy - t)$."]

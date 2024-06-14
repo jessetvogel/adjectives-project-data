@@ -1,6 +1,8 @@
 type: scheme
 name: $\Spec \QQ$
-description: Spectrum of the rational numbers
+description: The pectrum of the rational numbers $\QQ$.
 adjectives:
-  affine: true
-  integral: [true, The ring $\QQ$ is a domain]
+  affine: [true, By definition.]
+  integral: [true, The ring $\QQ$ is a domain.]
+  regular: [true, Fields are regular local rings.]
+  finite-dimensional: [true, Fields are zero-dimensional.]

@@ -2,4 +2,10 @@ type: scheme
 name: $\sqcup_{i = 1}^{\infty} \Spec \QQ$
 description: The infinite disjoint union of copies of $\Spec \QQ$.
 adjectives:
-  quasi-compact: false
+  quasi-compact: [false, "The open cover $\\{ \\Spec(\\QQ) \\}_{i \\ge 1}$ does not admit a finite subcover."]
+  connected: [false, Any disjoint union of (non-empty) schemes is not connected.]
+  locally-noetherian: [true, Every copy of $\Spec(\QQ)$ is locally noetherian.]
+  reduced: [true, Every copy of $\Spec(\QQ)$ is reduced.]
+  regular: [true, Every copy of $\Spec(\QQ)$ is regular.]
+  finite-dimensional: [true, The only irreducible closed subsets are single points.]
+  

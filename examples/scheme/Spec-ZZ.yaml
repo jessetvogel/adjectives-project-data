@@ -1,6 +1,9 @@
 type: scheme
 name: $\Spec \ZZ$
-description: Spectrum of the integers $\ZZ$
+description: The spectrum of the integers $\ZZ$.
 adjectives:
-  affine: true
+  affine: [true, By definition.]
   integral: [true, The ring $\ZZ$ is a domain]
+  finite-dimensional: [ true, It has dimension $1$ as the longest chain of prime ideals is $(0) \subsetneq (p)$ for any prime number $p$.]
+  locally-noetherian: [ true, $\ZZ$ is Noetherian as it is a PID.]
+  regular: [true, "Since PIDs are regular, and localizations of regular rings are regular, $\\ZZ$ is regular as well as all of its stalks."]

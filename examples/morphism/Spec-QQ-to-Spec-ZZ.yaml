@@ -1,5 +1,13 @@
 type: morphism
 name: $\Spec \QQ \to \Spec \ZZ$
+description: The unique morphism from $\Spec \QQ$ to $\Spec \ZZ$, which is also the generic point of $\Spec \ZZ$.
 with:
   source: Spec-QQ
   target: Spec-ZZ
+adjectives:
+  closed: [false, The generic point is not closed.]
+  immersion: [false, "Every open of $\\Spec \\ZZ$ is of the form $\\Spec \\ZZ_n$ for some integer $n \\in \\ZZ$. If this map would be an immersion, then for some $n \\in \\ZZ$ the induced map $\\ZZ_n \\to \\QQ$ would be surjective, which cannot be the case."]
+  surjective: [false, The prime ideals $(p)$ for $p$ prime do not lie in the image.]
+  locally-of-finite-type: false
+  open: false
+  flat: [true, Localizations are flat.]

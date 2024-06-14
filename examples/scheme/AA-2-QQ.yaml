@@ -1,6 +1,8 @@
 type: scheme
 name: $\AA^2_\QQ$
-description: The affine plane over the rational numbers.
+description: The affine plane over the rational numbers, that is, $\AA^2_\QQ = \Spec \QQ[x, y]$.
 adjectives:
-  affine: true
-  integral: true
+  affine: [true, By definition.]
+  integral: [true, "The ring $\\QQ[x, y]$ is a domain."]
+  locally-noetherian: [true, Polynomial rings over a field are Noetherian.]
+  finite-dimensional: [true, $\AA^2_\QQ$ has dimension $2$.]
