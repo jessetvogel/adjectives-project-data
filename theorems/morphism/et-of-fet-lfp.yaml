@@ -1,5 +1,6 @@
 type: theorem
-name: formally étale morphisms locally of finite presentation are étale
+name: étale is formally étale and locally of finite presentation
 given: morphism f
 if: [f formally-etale, f locally-of-finite-presentation]
 then: f etale
+converse: true

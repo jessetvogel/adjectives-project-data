@@ -5,6 +5,7 @@ with:
   target: AA-1-QQ
 description: The morphism $\AA^1_\QQ \to \AA^1_\QQ$ given by $x \mapsto x^2$.
 adjectives:
-  flat: true
-  smooth: false
-  locally-of-finite-presentation: true
+  flat: [true, "$\\QQ[x] \\cong \\QQ[x^2] \\oplus x \\cdot \\QQ [x^2]$ as $\\QQ[x^2]$-module, and free modules are flat."]
+  smooth: [false, "It is not smooth at the origin, since $\\partial x^2 / \\partial x = 2x$ evaluates to $0$ at $x = 0$."]
+  locally-of-finite-presentation: [true, "$\\QQ[x, y] / (y^2 - x)$ is of finite presentation over $\\QQ[x]$."]
+  homeomorphism: [false, Injectivity fails.]

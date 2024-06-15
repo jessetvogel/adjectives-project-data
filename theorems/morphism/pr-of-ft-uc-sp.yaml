@@ -3,3 +3,4 @@ name: definition proper
 given: morphism f
 if: [f of-finite-type, f universally-closed, f separated]
 then: f proper
+converse: true

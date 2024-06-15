@@ -2,7 +2,7 @@ type: scheme
 name: $\Spec \QQ[\sqrt{2}]$
 description: Spectrum of $\QQ[x]/(x^2 - 2)$.
 adjectives:
-  affine: true
+  affine: [true, By definition.]
   integral: true
   regular: true
   locally-noetherian: true

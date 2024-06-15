@@ -1,5 +1,6 @@
 type: theorem
-name: formally unramified morphisms locally of finite type are unramified
+name: unramified is formally unramified and locally of finite type
 given: morphism f
 if: [f formally-unramified, f locally-of-finite-type]
 then: f unramified
+converse: true
