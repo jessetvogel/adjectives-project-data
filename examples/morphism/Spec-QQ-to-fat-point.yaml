@@ -1,0 +1,11 @@
+type: morphism
+name: $\Spec \QQ \to \Spec \QQ[x]/(x^2)$
+description: The morphism defined by the quotient $\QQ[x]/(x^2) \to \QQ$.
+with:
+  source: Spec-QQ
+  target: fat-point
+adjectives:
+  closed-immersion: [true, "The map on rings $\\QQ[x]/(x^2) \\to \\QQ$ is surjective."]
+  flat: [false, "The inclusion $x \\QQ[x]/(x^2) \\hookrightarrow \\QQ[x]/(x^2)$ does not remain injective after tensoring with $\\QQ$ over $\\QQ[x]/(x^2)$."]
+  homeomorphism: [true, Both spaces consist of a single point.]
+  open-immersion: [false, It is surjective but not an isomorphism on global sections.]

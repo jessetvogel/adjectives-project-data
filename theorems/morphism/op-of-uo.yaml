@@ -1,0 +1,5 @@
+type: theorem
+name: universally open morphisms are open
+given: morphism f
+if: f universally-open
+then: f open

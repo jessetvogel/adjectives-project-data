@@ -1,0 +1,14 @@
+type: morphism
+name: $\Spec \QQ[x, y]/(xy) \to \AA^1_\QQ$
+description: The morphism from $\Spec \QQ[x, y]/(xy)$ to $\AA^1_\QQ$ given by projection to the $x$-axis, that is, the morphism corresponding to the natural ring morphism $\QQ[x] \to \QQ[x, y]/(x, y)$.
+with:
+  source: plane-axes
+  target: AA-1-QQ
+adjectives:
+  flat: [false]
+  immersion: [false]
+  locally-of-finite-presentation: [true, "Clear from the expression $\\QQ[x] \\to \\QQ[x, y]/(xy)$."]
+  surjective: true
+  universally-closed: [false, "Base change to the map $\\QQ[x, z] \\to \\QQ[x, y, z] / (xy)$. Then the closed subset $\\{ yz - 1 = 0 \\}$ maps to $\\{ x = 0, z \\ne 0 \\}$, which is not closed."]
+  
+

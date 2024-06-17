@@ -1,0 +1,12 @@
+type: morphism
+name: "$\\Spec \\QQ \\to \\Spec \\QQ[x^q : q \\in \\QQ_{> 0}]$"
+description: The morphism defined given by $x^q \mapsto 0$ for all $q \in \QQ_{> 0}$.
+with:
+  source: Spec-QQ
+  target: Spec-QQ-x-pow-q
+adjectives:
+  closed-immersion: [true, "It is the quotient by the ideal $(x^q : q \\in \\QQ_{> 0})$."]
+  flat: [false, "Tensoring the exact sequence $0 \\to (x) \\to \\QQ[x^q] \\to \\QQ[x^q] / (x) \\to 0$ with $\\QQ$ gives $0 \\to \\QQ \\to \\QQ \\to \\QQ \\to 0$ which is not exact anymore."]
+  formally-etale: [true, "Let $A$ be a ring with square-zero ideal $I \\subset A$, and construct a commutative square with $f : \\QQ[x^q : q\\in \\QQ_{> 0}] \\to A$ and $g : \\QQ \\to A/I$. For any $q \\in \\QQ_{> 0}$, we have $f(x^q) \\in I$, but then $f(x^q) = f((x^{q/2})^2) \\in I^2 = 0$. Hence, $f$ factors uniquely through $\\QQ$."]
+  open: [false, "The closed point $(x^q : q \\in \\QQ_{> 0})$ is not open."]
+  surjective: [false, "For instance, the prime ideal $(x - 2)$ does not lie in the image."]

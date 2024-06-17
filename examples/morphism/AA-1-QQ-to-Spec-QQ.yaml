@@ -1,0 +1,13 @@
+type: morphism
+name: $\AA^1_\QQ \to \Spec \QQ$
+description: The natural morphism from the affine line to the point, over the rational numbers.
+with:
+  source: AA-1-QQ
+  target: Spec-QQ
+adjectives:
+  flat: [true, Everything is flat over a field.]
+  closed: [true, Any subset of $\Spec(\QQ)$ is closed.]
+  unramified: false
+  immersion: [false, Not injective.]
+  universally-closed: [false, "The base change $\\AA^2_\\QQ \\to \\AA^1_\\QQ$ of this morphism is not closed, as the image of $\\{ xy - 1 = 0 \\}$ is $\\{ x \\ne 0 \\}$ which is not closed."]
+  

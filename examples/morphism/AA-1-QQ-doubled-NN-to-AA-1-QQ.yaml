@@ -1,0 +1,11 @@
+type: morphism
+name: affine line with doubled $\NN$ to affine line
+description: The projection of the affine line with doubled $\NN$ over the rational numbers to the affine line.
+with:
+  source: AA-1-QQ-doubled-NN
+  target: AA-1-QQ
+adjectives:
+  closed: [false, "As our closed set, take the point $n$ on $X_n$ for all integers $n$. This is a closed set (check by seeing that the intersection with every $X_n$ is closed), but its image is clearly not closed."]
+  etale: [true, Being étale is local on the source.]
+  separated: false
+  surjective: true

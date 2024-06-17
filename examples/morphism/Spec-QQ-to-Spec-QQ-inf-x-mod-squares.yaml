@@ -1,0 +1,10 @@
+type: morphism
+name: $\Spec \QQ \to \Spec \QQ[x_1, x_2, \ldots]/(x_1^2, x_2^2, \ldots)$
+description: The morphism from $\Spec \QQ$ to $\Spec \QQ[x_1, x_2, \ldots]/(x_1^2, x_2^2, \ldots)$ given by $x_i \mapsto 0$.
+with:
+  source: Spec-QQ
+  target: Spec-QQ-inf-x-mod-squares
+adjectives:
+  closed-immersion: [true, The map on rings is surjective.]
+  flat: [false, "Writing $R = \\QQ[x_1, x_2, \\ldots]/(x_1^2, x_2^2, \\ldots)$, the inclusion $x_1 R \\hookrightarrow R$ does not remain injective after tensoring with $\\QQ$ over $R$."]
+  homeomorphism: [true, Both the source and target consist of a single point.]

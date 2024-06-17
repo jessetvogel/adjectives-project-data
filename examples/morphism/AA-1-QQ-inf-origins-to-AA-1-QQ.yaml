@@ -1,0 +1,11 @@
+type: morphism
+name: affine line with infinitely many origins to affine line
+description: The projection of the affine line with infinitely many origins over the rational numbers to the affine line.
+with:
+  source: AA-1-QQ-inf-origins
+  target: AA-1-QQ
+adjectives:
+  closed: [true, "The closed subsets of the source are either $\\varnothing$, the whole space, or a finite set of closed points, all of whose images are indeed closed in $\\AA^1_\\QQ$."]
+  etale: [true, Being étale is local on the source.]
+  immersion: [false, Not injective.]
+  surjective: true

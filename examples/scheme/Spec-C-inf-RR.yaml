@@ -1,0 +1,9 @@
+type: scheme
+name: $\Spec \mathcal{C}^\infty(\RR)$
+description: The spectrum of the ring of infinitely differentiable functions on the real line.
+adjectives:
+  affine: [true, By definition.]
+  integral: [false, "The ring $\\mathcal{C}^\\infty(\\RR)$ contains zero divisors, e.g. let $f$ and $g$ be any smooth functions on $\\RR$ satisfying $f(-x) = g(x) = 0$ for $x \\ge 0$ and $f(1) = g(-1) = 1$, then $fg = 0$."]
+  locally-noetherian: [false, "The ascending chain of ideals $I_n = \\{ f \\in \\mathcal{C}^\\infty(\\RR) \\mid f(x) = 0 \\textup{ for } |x| < 1/n \\}$ does not stabilize."]
+  reduced: [true, "If $f^n = 0$ for some $f \\in \\mathcal{C}^\\infty(\\RR)$ and $n \\ge 1$, then $f$ must be $0$."]
+  

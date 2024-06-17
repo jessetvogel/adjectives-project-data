@@ -1,0 +1,6 @@
+type: scheme
+name: "$\\Spec \\QQ[x^q : q \\in \\QQ_{> 0}]$"
+adjectives:
+  affine: [true, By definition.]
+  integral: [true, "The ring $\\QQ[x^q : q \\in \\QQ_{> 0}]$ is a domain, which can be seen by looking at leading terms of elements."]
+  locally-noetherian: [false, "The ascending chain of ideals $I_n = (x^{1/n})$ does not stabilize."]

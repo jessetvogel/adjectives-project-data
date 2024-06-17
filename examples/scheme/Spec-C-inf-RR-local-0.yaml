@@ -1,0 +1,9 @@
+type: scheme
+name: local ring of $\Spec \mathcal{C}^\infty(\RR)$ at zero
+description: The scheme $\Spec S$, where $S = R_\mathfrak{m} = R/I$ with $R = \mathcal{C}^\infty(\RR)$ and $\mathfrak{m} = \{ f \in R \mid f(0) = 0 \}$ and $I = \{ f \in R \mid \exists \varepsilon > 0 \textup{ s.t. } f(x) = 0 \textup{ for all } |x| < \varepsilon \}$. See Stacks 052H$.
+adjectives:
+  affine: [true, By definition.]
+  irreducible: [false, "Let $f(x) = g(-x) = 0$ for $x \\le 0$ and $f(x) = g(-x) = e^{-1/x^2}$ for $x > 0$. Then $fg \\in I$ while $f, g \\not\\in I$."]
+  locally-noetherian: [false, "Let $I_\\varepsilon = \\{ f \\in R \\mid f(x) = 0 \\textup{ for all } |x| < \\varepsilon \\}$. Then $I_1 \\subsetneq I_{\\frac{1}{2}} \\subsetneq I_{\\frac{1}{3}} \\subsetneq \\cdots \\subset I$, so $R/I$ is not noetherian."]
+  reduced: [true, "If $f^n \\in I$ for some $f \\in \\mathcal{C}^\\infty(\\RR)$, then there exists some $\\varepsilon > 0$ such that $f^n(x) = 0$ for all $|x| < \\varepsilon$, but then also $f(x) = 0$ for all $|x| < \\varepsilon$, so $f \\in I$."]
+  

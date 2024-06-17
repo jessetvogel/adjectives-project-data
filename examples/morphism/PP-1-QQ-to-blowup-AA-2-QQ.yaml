@@ -1,0 +1,8 @@
+type: morphism
+name: exceptional divisor blowup plane in origin
+with:
+  source: PP-1-QQ
+  target: blowup-AA-2-QQ
+adjectives:
+  closed-immersion: [true, "It is the base change of the closed immersion $\\{ (0, 0) \\} \\to \\AA^2_\\QQ$ by the blowup morphism $\\operatorname{Bl}_{\\{ (0, 0) \\}} \\AA^2_\\QQ \\to \\AA^2_\\QQ$."]
+  surjective: false

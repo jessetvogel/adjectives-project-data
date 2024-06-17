@@ -1,0 +1,9 @@
+type: morphism
+name: inclusion local ring $\Spec \mathcal{C}^\infty(\RR)$ at zero
+description: The morphism as described in Stacks 052H.
+with:
+  source: Spec-C-inf-RR-local-0
+  target: Spec-C-inf-RR
+adjectives:
+  closed-immersion: [true, The map on rings is surjective.]
+

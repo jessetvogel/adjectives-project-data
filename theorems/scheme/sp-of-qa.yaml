@@ -1,0 +1,5 @@
+type: theorem
+name: quasi-affine schemes are separated
+given: scheme X
+if: X quasi-affine
+then: X separated

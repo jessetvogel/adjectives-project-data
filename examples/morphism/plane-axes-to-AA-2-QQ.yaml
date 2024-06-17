@@ -1,0 +1,10 @@
+type: morphism
+name: $\Spec \QQ[x, y]/(xy) \to \AA^2_\QQ$
+description: The inclusion of the plane axes into $\AA^2_\QQ$.
+with:
+  source: plane-axes
+  target: AA-2-QQ
+adjectives:
+  closed-immersion: [true, "It corresponds to the quotient map $\\QQ[x, y] \\to \\QQ[x, y]/(xy)$."]
+  flat: false
+  surjective: false

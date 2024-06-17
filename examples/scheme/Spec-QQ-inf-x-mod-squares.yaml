@@ -1,0 +1,9 @@
+type: scheme
+name: $\Spec \QQ[x_1, x_2, \ldots]/(x_1^2, x_2^2, \ldots)$
+adjectives:
+  affine: [true, By definition.]
+  finite-dimensional: [true, "The topological space consists of a single point, so its dimension is zero."]
+  irreducible: [true, "The topological space consists of a single point, corresponding to the prime ideal $(x_1, x_2, \\ldots)$."]
+  locally-noetherian: [false, "There is an infinite chain of ideals $(x_1) \\subsetneq (x_1, x_2) \\subsetneq (x_1, x_2, x_3) \\subsetneq \\cdots$."]
+  reduced: [false, "The ring $\\QQ[x_1, x_2, \\ldots]/(x_1^2, x_2^2, \\ldots)$ is not reduced as $x_1^2 = 0$."]
+  

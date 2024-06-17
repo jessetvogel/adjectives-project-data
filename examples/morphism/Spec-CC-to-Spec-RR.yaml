@@ -1,0 +1,12 @@
+type: morphism
+name: $\Spec \CC \to \Spec \RR$
+description: The unique morphism from $\Spec \CC$ to $\Spec \RR$.
+with:
+  source: Spec-CC
+  target: Spec-RR
+adjectives:
+  closed-immersion: [false, The map $\RR \to \CC$ is not surjective.]
+  etale: [true, As $\CC$ is a finite separable field extension of $\RR$.]
+  finite: [true, $\CC$ is finitely generated as $\RR$-module.]
+  homeomorphism: [true, Both spaces consist of a single point.]
+  immersion: [false, "The underlying map of topological spaces is surjective, but the map on stalks is not surjective."]

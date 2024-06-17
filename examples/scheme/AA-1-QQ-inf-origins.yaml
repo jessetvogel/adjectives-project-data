@@ -1,0 +1,8 @@
+type: scheme
+name: affine line with infinitely many origins
+description: The affine line over the rational numbers with infinitely many origins, that is, $\left( \sqcup_{i = 1}^{\infty} \AA^1_\QQ \right) / \sim{}$.
+adjectives:
+  integral: true
+  locally-noetherian: [true, Every copy of $\AA^1_\QQ$ is locally noetherian.]
+  quasi-compact: [false, The infinite cover by affine lines does not admit a finite subcover.]
+  regular: [true, Every copy of $\AA^1_\QQ$ is regular.]

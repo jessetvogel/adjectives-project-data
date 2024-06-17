@@ -1,0 +1,8 @@
+type: morphism
+name: The blowup morphism from the blowup of the affine plane in the origin to the affine plane, over the rational numbers.
+with:
+  source: blowup-AA-2-QQ
+  target: AA-2-QQ
+adjectives:
+  flat: [false, "The dimension of the fibre over the origin is 1, which is not the difference between the dimension of the domain and the dimension of the target."]
+  surjective: true
