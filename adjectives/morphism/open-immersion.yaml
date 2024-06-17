@@ -1,2 +1,3 @@
 type: morphism adjective
 name: open immersion
+description: "A morphism $j : U \\to X$ of schemes is an open immersion if it induces an isomorphism of $U$ with an open subscheme of $X$."

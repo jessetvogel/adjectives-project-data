@@ -1,2 +1,3 @@
 type: morphism adjective
 name: faithfully flat
+description: "A morphism $f : X \\to Y$ of schemes is faithfully flat if it is flat and surjective."
