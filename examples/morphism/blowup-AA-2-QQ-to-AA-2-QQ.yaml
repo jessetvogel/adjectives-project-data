@@ -1,5 +1,6 @@
 type: morphism
-name: The blowup morphism from the blowup of the affine plane in the origin to the affine plane, over the rational numbers.
+name: blowup morphism affine plane in origin
+description: The blowup morphism from the blowup of the affine plane in the origin to the affine plane, over the rational numbers.
 with:
   source: blowup-AA-2-QQ
   target: AA-2-QQ
