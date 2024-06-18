@@ -1,0 +1,7 @@
+type: scheme
+name: $\AA^\infty_\QQ \setminus \{ 0 \}$
+description: The open complement of the origin inside $\AA^\infty_\QQ = \Spec \QQ[x_1, x_2, \ldots]$.
+adjectives:
+  integral: [true, "It is an open subset of $\\AA^\\infty_\\QQ$, which is integral since $\\QQ[x_1, x_2, \\ldots]$ is a domain."]
+  quasi-compact: [false, "The open cover $U_i = \\{ x_i \\ne 0 \\}$, for $i = 1, 2, \\ldots$, does not have a finite subcover."]
+  locally-noetherian: false

@@ -1,0 +1,10 @@
+type: morphism
+name: $\AA^\infty_\QQ$ with double origin to $\Spec \QQ$
+description: The natural morphism from $\AA^\infty_\QQ$ with double origin to $\Spec \QQ$.
+with:
+  source: AA-inf-QQ-double-origin
+  target: Spec-QQ
+adjectives:
+  surjective: [true, The target consists of one point and the source is non-empty.]
+  quasi-separated: [false, "Denote the source by $X$ and $X_1, X_2 \\subset X$ the two copies of $\\AA^\\infty_\\QQ$. Now $\\Delta_{X/\\QQ}(X_1 \\times X_2) = \\AA^\\infty_\\QQ \\setminus \\{ 0 \\}$ is not quasi-compact."]
+  closed: [true, The target has discrete topology.]

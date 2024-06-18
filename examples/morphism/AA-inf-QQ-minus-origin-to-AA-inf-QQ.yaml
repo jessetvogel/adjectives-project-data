@@ -1,0 +1,10 @@
+type: morphism
+name: $\AA^\infty_\QQ \setminus \{ 0 \} \to \AA^\infty_\QQ$
+description: The inclusion of $\AA^\infty_\QQ \setminus \{ 0 \}$ into $\AA^\infty_\QQ$.
+with:
+  source: AA-inf-QQ-minus-origin
+  target: AA-inf-QQ
+adjectives:
+  closed: [false, The image is not closed.]
+  open-immersion: [true, It is the open complement of the origin which is a closed point.]
+  surjective: [false, The image does not contain the origin.]

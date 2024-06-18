@@ -1,0 +1,7 @@
+type: scheme
+name: $\AA^\infty_\QQ$ with double origin
+description: Let $X_1 = X_2 = \AA^\infty_\QQ = \Spec \QQ[x_1, x_2, \ldots]$. The scheme $X$ is obtained by gluing $X_1$ and $X_2$ along the complement of the origin $0 = (x_1, x_2, \ldots)$.
+adjectives:
+  finite-dimensional: [false]
+  integral: [true]
+  quasi-compact: [true, "Both copies of $\\AA^\\infty_\\QQ$ are quasi-compact as they are affine."]
