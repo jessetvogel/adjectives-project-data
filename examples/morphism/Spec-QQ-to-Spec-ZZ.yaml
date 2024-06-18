@@ -8,6 +8,8 @@ adjectives:
   closed: [false, The generic point is not closed.]
   immersion: [false, "Every open of $\\Spec \\ZZ$ is of the form $\\Spec \\ZZ_n$ for some integer $n \\in \\ZZ$. If this map would be an immersion, then for some $n \\in \\ZZ$ the induced map $\\ZZ_n \\to \\QQ$ would be surjective, which cannot be the case."]
   surjective: [false, The prime ideals $(p)$ for $p$ prime do not lie in the image.]
-  locally-of-finite-type: false
-  open: false
+  locally-of-finite-type: [false, "If $\\QQ$ were to be finitely generated as $\\ZZ$-algebra, then only finitely many prime numbers could appear in the denominators of rational numbers, which is false."]
+  open: [false, $\Spec \QQ$ is not open in $\Spec \ZZ$ as any open of $\Spec \ZZ$ is of the form $\Spec \ZZ_n$ for some integer $n$.]
   flat: [true, Localizations are flat.]
+  # formally-unramified: [true, "In the definition of formally unramified, if there exists a lift $\\QQ \\to A$, it must be unique."]
+  # formally-smooth: [false, "Find counterexample."]

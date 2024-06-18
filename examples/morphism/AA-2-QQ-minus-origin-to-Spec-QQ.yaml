@@ -1,5 +1,5 @@
 type: morphism
-name: $\AA^2_\QQ \setminus \{ (0, 0) \} \to \Spec \QQ$
+name: $\AA^2_\QQ \setminus \{ 0 \} \to \Spec \QQ$
 with:
   source: AA-2-QQ-minus-origin
   target: Spec-QQ
