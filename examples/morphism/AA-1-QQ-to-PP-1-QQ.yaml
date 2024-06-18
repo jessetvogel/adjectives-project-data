@@ -3,7 +3,7 @@ name: $\AA^1_\QQ \to \PP^1_\QQ$
 with:
   source: AA-1-QQ
   target: PP-1-QQ
-description: "The inclusion of $\\AA_1_\\QQ$ into $\\PP^1_\\QQ$ given by $x \\mapsto (x : 1)$."
+description: "The inclusion of $\\AA^1_\\QQ$ into $\\PP^1_\\QQ$ given by $x \\mapsto (x : 1)$."
 adjectives:
   closed: [false, The image of $\AA^1_\QQ$ in $\PP^1_\QQ$ is not closed.]
   open-immersion: [true, It is the open immersion of one of the standard affine opens of $\PP^1_\QQ$.]
