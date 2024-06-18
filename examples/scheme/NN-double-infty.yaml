@@ -1,5 +1,5 @@
 type: scheme
-name: $\AA^1_\QQ$
+name: $\NN$ with two points at infinity
 description: Let $X = \Spec R$, where $R$ is the ring of continuous maps from the one-point compactification of $\NN$ to $\FF_2$, and let $x \in X$ be the point at infinity. Then glue two copies of $X$ along $X \setminus \{ x \}$.
 adjectives:
   affine: [false, "The ring of global functions is again $R$, but the scheme is not isomorphic to $\\Spec R$."]
