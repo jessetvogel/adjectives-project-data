@@ -4,4 +4,4 @@ description: The spectrum of the power series ring $\QQ \llbracket x \rrbracket$
 adjectives:
   affine: [true, By definition.]
   integral: [true, The ring $\QQ \llbracket x \rrbracket$ is a domain.]
-  
+  locally-noetherian: [true, "The ring $\\QQ \\llbracket x \\rrbracket$ is Noetherian."]
