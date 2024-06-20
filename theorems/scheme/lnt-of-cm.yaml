@@ -1,5 +1,5 @@
 type: theorem
-name: Cohen-Macaulay schemes are locally noetherian
+name: Cohen-Macaulay schemes are locally Noetherian
 given: scheme X
 if: X cohen-macaulay
 then: X locally-noetherian

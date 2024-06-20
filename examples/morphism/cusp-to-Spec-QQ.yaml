@@ -5,4 +5,5 @@ with:
   target: Spec-QQ
 adjectives:
   unramified: false
-  flat: true
+  flat: [true, Everything is flat over a field.]
+  locally-of-finite-presentation: [true, By definition of the cusp.]

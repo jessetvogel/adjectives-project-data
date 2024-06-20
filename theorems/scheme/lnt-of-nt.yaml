@@ -1,5 +1,5 @@
 type: theorem
-name: noetherian schemes are locally noetherian
+name: Noetherian schemes are locally Noetherian
 given: scheme X
 if: X noetherian
 then: X locally-noetherian

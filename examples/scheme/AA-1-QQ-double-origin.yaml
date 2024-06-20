@@ -4,4 +4,4 @@ description: The affine line with double origin over the rational numbers.
 adjectives:
   integral: true
   regular: true
-  separated: false
+  quasi-compact: [true, As it can be covered by two quasi-compact opens (the two affine lines).]

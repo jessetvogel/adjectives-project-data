@@ -4,3 +4,4 @@ description: The scheme $\sqcup_{x \in \AA^1_\QQ} \Spec(\mathcal{O}_{\AA^1_\QQ, 
 adjectives:
   connected: [false, By construction.]
   regular: true
+  quasi-compact: [false, The topological space is discrete and infinite.]

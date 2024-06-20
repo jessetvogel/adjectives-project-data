@@ -4,6 +4,6 @@ with:
   source: Spec-QQ-sqrt-2
   target: Spec-QQ
 adjectives:
-  flat: true
-  closed-immersion: false
-  homeomorphism: true
+  flat: [true, Everything is flat over a field.]
+  closed-immersion: [false, "The map $\\QQ \\to \\QQ[\\sqrt{2}]$ is not surjective."]
+  homeomorphism: [true, Both source and target consist of a single point.]

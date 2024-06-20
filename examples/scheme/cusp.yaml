@@ -4,5 +4,5 @@ description: The scheme $\Spec \QQ[x, y]/(y^2 - x^3)$.
 adjectives:
   affine: [true, By definition.]
   integral: [true, "The ring $\\QQ[x, y]/(y^2 - x^3)$ is a domain as $y^2 - x^3$ is irreducible."]
-  normal: false
-  locally-noetherian: true
+  normal: [false, "The ring $R = \\QQ[x, y]/(y^2 - x^3)$ is not integrally closed: the element $t = y/x$ is integral (as $t^2 = x$) but does not lie in $R$."]
+  locally-noetherian: [true, "The ring $\\QQ[x, y]/(y^2 - x^3)$ is Noetherian."]

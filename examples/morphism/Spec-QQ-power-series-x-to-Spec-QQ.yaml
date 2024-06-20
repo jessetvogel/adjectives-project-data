@@ -1,0 +1,10 @@
+type: morphism
+name: $\Spec \QQ \llbracket x \rrbracket \to \Spec \QQ$
+with:
+  source: Spec-QQ-power-series-x
+  target: Spec-QQ
+adjectives:
+  flat: [true, Everything is flat over a field.]
+  closed-immersion: [false, "The map $\\QQ \\to \\QQ \\llbracket x \\rrbracket$ is not surjective."]
+  homeomorphism: [true, Both source and target consist of a single point.]
+  formally-unramified: [false, "Take $A = \\QQ[t]/(t^2)$ with $I = (t)$ in the definition of formally unramified."]

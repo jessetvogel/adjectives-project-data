@@ -1,0 +1,7 @@
+type: scheme
+name: $\Spec \QQ \llbracket x \rrbracket$
+description: The spectrum of the power series ring $\QQ \llbracket x \rrbracket$.
+adjectives:
+  affine: [true, By definition.]
+  integral: [true, The ring $\QQ \llbracket x \rrbracket$ is a domain.]
+  
