@@ -5,6 +5,6 @@ with:
   target: Spec-QQ
 adjectives:
   etale: [true, "Locally, all copies of $\\Spec \\QQ \\to \\Spec \\QQ$ are étale."]
-  immersion: [false, Not injective.]
+  injective: [false, All points map to the same point.]
   locally-of-finite-presentation: [true, "Locally, every copy of $\\Spec \\QQ  \\to \\Spec \\QQ$ is of finite presentation."]
   surjective: true

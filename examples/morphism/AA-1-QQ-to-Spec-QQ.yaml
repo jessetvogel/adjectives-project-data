@@ -6,7 +6,7 @@ with:
   target: Spec-QQ
 adjectives:
   closed: [true, Any subset of $\Spec(\QQ)$ is closed.]
-  immersion: [false, Not injective.]
+  injective: [false, All points map to the same point.]
   universally-closed: [false, "The base change $\\AA^2_\\QQ \\to \\AA^1_\\QQ$ of this morphism is not closed, as the image of $\\{ xy - 1 = 0 \\}$ is $\\{ x \\ne 0 \\}$ which is not closed."]
   locally-of-finite-presentation: [true, "$\\QQ[x]$ is a finite presentation over $\\QQ$."]
   smooth: [true, "$\\QQ[x]$ is standard smooth over $\\QQ$."]

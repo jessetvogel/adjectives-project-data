@@ -1,0 +1,5 @@
+type: theorem
+name: locally factorial schemes are normal
+given: scheme X
+if: X locally-factorial
+then: X normal

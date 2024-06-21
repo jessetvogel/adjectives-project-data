@@ -7,5 +7,5 @@ with:
 adjectives:
   closed: [true, "The closed subsets of the source are either $\\varnothing$, the whole space, or a finite set of closed points, all of whose images are indeed closed in $\\AA^1_\\QQ$."]
   etale: [true, Being étale is local on the source.]
-  immersion: [false, Not injective.]
+  injective: [false, All origins map to the same point.]
   surjective: true

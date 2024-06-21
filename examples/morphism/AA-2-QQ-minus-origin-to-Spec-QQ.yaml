@@ -4,7 +4,7 @@ with:
   source: AA-2-QQ-minus-origin
   target: Spec-QQ
 adjectives:
-  immersion: [false, Not injective.]
+  injective: [false, All points map to the same point.]
   smooth: [true]
   surjective: true
   unramified: false

@@ -5,3 +5,4 @@ adjectives:
   affine: [true, By definition.]
   integral: [ true, "The polynomial $f = y^2 - x^3 - x^2$ is irreducible, so $\\QQ[x, y] / (f)$ is a domain."]
   locally-noetherian: [true, "The ring $\\QQ[x, y] / (y^2 - x^3 - x^2)$ is Noetherian."]
+  normal: [false, "The ring $R = \\QQ[x, y] / (y^2 - x^3 - x^2)$ is not integrally closed: $t = y/x$ is integral (as $t^2 - x - 1 = 0$) but does not lie in $R$."]
