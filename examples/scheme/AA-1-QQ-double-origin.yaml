@@ -5,3 +5,4 @@ adjectives:
   integral: true
   regular: true
   quasi-compact: [true, As it can be covered by two quasi-compact opens (the two affine lines).]
+  finite-dimensional: [true, As it is covered by two open 1-dimensional patches]
