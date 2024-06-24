@@ -10,3 +10,4 @@ adjectives:
   finite: [true, $\CC$ is finitely generated as $\RR$-module.]
   homeomorphism: [true, Both spaces consist of a single point.]
   immersion: [false, "The underlying map of topological spaces is surjective, but the map on stalks is not surjective."]
+  universally-injective: [false, "The base change $\\Spec \\CC \\sqcup \\Spec \\CC = \\Spec \\CC \\times_{\\Spec \\RR} \\Spec \\CC \\to \\Spec \\CC$ is not injective."]

@@ -1,0 +1,5 @@
+type: theorem
+name: universally homeomorphisms are homeomorphisms
+given: morphism f
+if: f universally-homeomorphism
+then: f homeomorphism

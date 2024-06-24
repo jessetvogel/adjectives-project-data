@@ -1,0 +1,10 @@
+type: morphism
+name: $\sqcup_{n = 1}^{\infty} \PP^n_\QQ \to \sqcup_{n = 1}^{\infty} \Spec \QQ$
+description: The morphism which sends $\PP^n_\QQ$ to the $n$-th copy of $\Spec \QQ$.
+with:
+  source: inf-sqcup-PP-n-QQ
+  target: inf-sqcup-Spec-QQ
+adjectives:
+  bundle-projective: [true]
+  h-projective: [false]
+  

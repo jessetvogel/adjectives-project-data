@@ -1,0 +1,5 @@
+type: theorem
+name: universally injective morphisms are injective
+given: morphism f
+if: f universally-injective
+then: f injective

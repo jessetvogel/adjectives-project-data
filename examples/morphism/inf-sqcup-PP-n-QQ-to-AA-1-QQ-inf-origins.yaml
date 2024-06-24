@@ -1,0 +1,11 @@
+type: morphism
+name: $\sqcup_{n = 1}^{\infty} \PP^n_\QQ$ to affine line with infinitely many origins
+description: The morphism which sends the $\PP^n_\QQ$ to the $n$-th copy of the origin.
+with:
+  source: inf-sqcup-PP-n-QQ
+  target: AA-1-QQ-inf-origins
+adjectives:
+  projective: [true]
+  bundle-projective: [false]
+  injective: [false, All points of $\PP^n_\QQ$ map to the same point.]
+  flat: [false]
