@@ -5,4 +5,7 @@ with:
   target: Spec-QQ
 adjectives:
   h-projective: [true, By definition.]
-  
+  smooth: [true]
+  surjective: [true, "The target consists of a single point and the source is non-empty."]
+  unramified: [false]
+  quasi-affine: [false]
