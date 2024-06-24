@@ -1,5 +1,6 @@
 type: theorem
-name: proper quasi-finite morphisms are finite
+name: finite is proper and quasi-finite
 given: morphism f
 if: [f proper, f quasi-finite]
 then: f finite
+converse: true

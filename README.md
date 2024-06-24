@@ -34,6 +34,8 @@ name: affine
 description: A scheme is affine if [...]
 ```
 
+Additionally, there may be a field `verb`, whose value is an array of two strings, which indicates how the adjective is used in a sentence. By default, its value is `[is, is not]`. The adjective 'closed immersion' has `[is a, is not a]`, and the adjective 'finite fibers' has `[has, does not have]`.
+
 ### Examples
 
 A file declaring an example should have the following format. Arguments are provided through the `with` field. Adjectives of the example may be declared with or without proof.
@@ -63,6 +65,8 @@ given: morphism f # of the form: <type> <symbol>
 if: [f.source affine, f.target affine]
 then: f affine
 ```
+
+Additionally, there may be a field `converse`, which if set to `true`, indicates that the converse of the theorem also holds (that is, one may swap the conditions and conclusions).
 
 ## Conventions 
 

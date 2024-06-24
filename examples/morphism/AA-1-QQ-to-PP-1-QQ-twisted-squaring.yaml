@@ -1,0 +1,13 @@
+type: morphism
+name: twisted square from $\AA^1_\QQ$ to $\PP^1_\QQ$
+with:
+  source: AA-1-QQ
+  target: PP-1-QQ
+description: "The morphism from $\\AA^1_\\QQ$ to $\\PP^1_\\QQ$ given by $x \\mapsto ((x + 1)^2 : x^2)$."
+adjectives:
+  closed: [true, "Closed points map to closed points, and the image of $\\AA^1_\\QQ$ is the whole of $\\PP^1_\\QQ$."]
+  universally-closed: [false]
+  affine: [true]
+  finite-fibers: [true, "Every fiber has either one or two points."]
+  surjective: [true]
+  injective: [false, "Both points $x = 1$ and $x = -1/3$ map to $(4 : 1)$."]

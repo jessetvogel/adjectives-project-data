@@ -3,3 +3,4 @@ name: definition Noetherian
 given: scheme X
 if: [X locally-noetherian, X quasi-compact]
 then: X noetherian
+converse: true
