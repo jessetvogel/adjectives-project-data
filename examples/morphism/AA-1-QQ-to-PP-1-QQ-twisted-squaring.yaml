@@ -11,3 +11,7 @@ adjectives:
   finite-fibers: [true, "Every fiber has either one or two points."]
   surjective: [true]
   injective: [false, "Both points $x = 1$ and $x = -1/3$ map to $(4 : 1)$."]
+  formally-smooth: [false, "Fails at the point $x = -1$. "]
+  formally-unramified: [false, "Fails at the point $x = -1$. "]
+  flat: [true, "Quasi-finite map between smooth curves."]
+  of-finite-presentation: true

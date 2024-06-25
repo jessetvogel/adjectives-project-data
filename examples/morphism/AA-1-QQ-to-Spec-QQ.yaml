@@ -12,3 +12,5 @@ adjectives:
   smooth: [true, "$\\QQ[x]$ is standard smooth over $\\QQ$."]
   surjective: [true, The target consists of a single point and the source is non-empty.]
   formally-unramified: [false, "Let $A = \\QQ[t]/(t^2)$ with ideal $I = (t)$, and consider a map $\\QQ[x] \\to A/I = \\QQ$ given by $x \\mapsto q$. Then there are infinitely many lifts $\\QQ[x] \\to A$ given by $x \\mapsto q + rt$ for $r \\in \\QQ$."]
+  finite-fibers: false
+  quasi-finite: false
