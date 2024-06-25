@@ -7,3 +7,7 @@ adjectives:
   flat: [true, Everything is flat over a field.]
   closed-immersion: [false, "The map $\\QQ \\to \\QQ[\\sqrt{2}]$ is not surjective."]
   homeomorphism: [true, Both source and target consist of a single point.]
+  universally-injective: [false, "The base change $\\Spec \\QQ[\\sqrt{2}] \\sqcup \\Spec \\QQ[\\sqrt{2}] = \\Spec \\QQ[\\sqrt{2}] \\times_{\\Spec \\QQ} \\Spec \\QQ[\\sqrt{2}] \\to \\Spec \\QQ[\\sqrt{2}]$ is not injective."]
+  etale: [true, "$\\QQ[\\sqrt{2}]$ is a separable finite field extension of $\\QQ$."]
+  finite: [true, "$\\QQ[\\sqrt{2}]$ is finitely generated as $\\QQ$-module."]
+  

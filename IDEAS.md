@@ -9,5 +9,6 @@ This file contains ideas for examples and theorems which can be added.
 **Adjectives**
 - (universally) submersive
 - epimorphism
+- (locally) quasi-(H)-projective https://stacks.math.columbia.edu/tag/01VV
 
 **Examples**
