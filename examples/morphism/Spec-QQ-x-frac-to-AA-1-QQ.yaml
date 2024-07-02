@@ -1,0 +1,13 @@
+type: morphism
+name: $\Spec \QQ(x) \to \AA^1_\QQ$
+description: The inclusion of the generic point $\Spec \QQ(x)$ into the affine line $\AA^1_\QQ$.
+with:
+  source: Spec-QQ-x-frac
+  target: AA-1-QQ
+adjectives:
+  locally-of-finite-type: [false, "The ring $\\QQ(x)$ is not finitely generated as $\\QQ[x]$-algebra."]
+  monomorphism: [true]
+  surjective: [false]
+  open: [false, The generic point in $\AA^1_\QQ$ is not open.]
+  closed: [false, The generic point in $\AA^1_\QQ$ is not closed.]
+  flat: [true]

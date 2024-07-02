@@ -1,0 +1,8 @@
+type: scheme
+name: $\Spec \QQ(x)$
+description: The scheme $\Spec \QQ(x)$, where $\QQ(x)$ is field of fractions of the polynomial ring $\QQ[x]$.
+adjectives:
+  affine: [true, By definition.]
+  integral: [true, Fields are domains.]
+  finite-dimensional: [true, Fields are zero-dimensional.]
+  regular: [true, Fields are regular local rings.]
