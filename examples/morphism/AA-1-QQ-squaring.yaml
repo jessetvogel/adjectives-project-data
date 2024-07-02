@@ -11,3 +11,4 @@ adjectives:
   homeomorphism: [false, Injectivity fails.]
   surjective: [true, "The generic point maps to the generic point, and every point has a 'square root'."]
   finite: [true, "$\\QQ[x]$ is a finitely generated $\\QQ[x^2]$-module, since $\\QQ[x] \\cong \\QQ[x^2] \\oplus x \\cdot \\QQ [x^2]$."]
+  regular: [true, "It is flat and all fibers are geometrically regular."]

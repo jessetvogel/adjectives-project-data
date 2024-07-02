@@ -10,5 +10,7 @@ This file contains ideas for examples and theorems which can be added.
 - (universally) submersive
 - epimorphism
 - (locally) quasi-(H)-projective https://stacks.math.columbia.edu/tag/01VV
+- radical morphism https://stacks.math.columbia.edu/tag/01S3
 
 **Examples**
+- Hironaka's example [Hartshorne, Example B.3.4.1] (proper but not projective)

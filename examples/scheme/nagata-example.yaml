@@ -1,0 +1,7 @@
+type: scheme
+name: Nagata's example
+description: "Let $R = \\QQ[x_1, x_2, \\ldots]$ and consider the prime ideals $\\mathfrak{p}_i = (x_{2^{i - 1}}, x_{2^{i - 1} + 1}, \\ldots, x_{2^i - 1})$ for $i = 1, 2, \\ldots$. Let $S = \\bigcap_{i \\ge 1} (R \\setminus \\mathfrak{p}_i)$, which is a multiplicative subset of $R$, and set $A = S^{-1} R$. Then Nagata's example is the scheme $\\Spec A$. Also see https://stacks.math.columbia.edu/tag/02JC"
+adjectives:
+  locally-noetherian: [true]
+  finite-dimensional: [false]
+  affine: [true, By definition.]
