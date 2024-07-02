@@ -1,0 +1,5 @@
+type: scheme
+name: $\Spec \overline{\QQ}$
+description: The scheme $\Spec \overline{\QQ}$, where $\overline{\QQ}$ denotes an algebraic closure of $\QQ$.
+adjectives:
+  affine: [true, By definition.]

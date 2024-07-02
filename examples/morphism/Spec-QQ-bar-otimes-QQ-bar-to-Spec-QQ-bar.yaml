@@ -1,0 +1,10 @@
+type: morphism
+name: $\Spec \overline{\QQ} \otimes_\QQ \overline{\QQ} \to \Spec \overline{\QQ}$
+with:
+  source: Spec-QQ-bar-otimes-QQ-bar
+  target: Spec-QQ-bar
+adjectives:
+  integral: [true, "It corresponds to the base change of the inclusion $\\QQ \\to \\overline{\\QQ}$ which is integral."]
+  finite-fibers: [false, "As $\\Spec \\overline{\\QQ} \\otimes_\\QQ \\overline{\\QQ}$ is infinite."]
+  flat: [true, Everything is flat over a field.]
+  surjective: [true, "The target is a single point, and the source is non-empty."]
