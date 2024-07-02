@@ -6,4 +6,4 @@ with:
 adjectives:
   open-immersion: [true, Isomorphisms are open immersions.]
   closed-immersion: [true, Isomorphisms are closed immersions.]
-  homeomorphism: [true, Isomorphisms are homeomorphisms.]
+  universally-homeomorphism: [true, Isomorphisms are universally homeomorphism.]

@@ -8,3 +8,5 @@ adjectives:
   injective: [false, All points map to the same point.]
   locally-of-finite-presentation: [true, "Locally, every copy of $\\Spec \\QQ  \\to \\Spec \\QQ$ is of finite presentation."]
   surjective: true
+  finite-fibers: [false, "There is only one fiber, which has infinitely many points."]
+  closed: [true, "The target has discrete topology."]
