@@ -11,3 +11,5 @@ adjectives:
   open-immersion: false
   locally-of-finite-presentation: true
   homeomorphism: true
+  integral: [true, "All powers of $t$ are integral over $\\QQ[x, y] / (y^2 - x^3)$, as $t^n$ is a root of $P(X) = X^2 - x^n$."]
+  universally-injective: [true]

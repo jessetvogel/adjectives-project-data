@@ -7,4 +7,5 @@ with:
 adjectives:
   closed-immersion: [true, "It corresponds to the quotient map $\\QQ[x, y] \\to \\QQ[x, y]/(xy)$."]
   flat: false
-  surjective: false
+  surjective: [false, "The point with $x = 1$ and $y = 1$ does not lie in the image."]
+  open: [false, "The image is not closed."]

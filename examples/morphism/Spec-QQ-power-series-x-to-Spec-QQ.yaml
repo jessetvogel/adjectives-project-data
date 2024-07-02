@@ -10,3 +10,4 @@ adjectives:
   locally-of-finite-type: [false, "Any finitely generated $\\QQ$-algebra has countable dimension over $\\QQ$, but $\\QQ \\llbracket x \\rrbracket \\cong \\QQ^\\NN$ has uncountable dimension."]
   formally-unramified: [false, "Take $A = \\QQ[t]/(t^2)$ with $I = (t)$ in the definition of formally unramified."]
   formally-smooth: [true, https://stacks.math.columbia.edu/tag/07EJ]
+  integral: [false, The element $f = 1 + t + t^2 + \cdots$ is not integral over $\QQ$.]

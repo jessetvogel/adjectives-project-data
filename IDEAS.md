@@ -14,3 +14,4 @@ This file contains ideas for examples and theorems which can be added.
 
 **Examples**
 - Hironaka's example [Hartshorne, Example B.3.4.1] (proper but not projective)
+- \Spec \overline{\QQ} \otimes \overline{\QQ} with doubled origin is finite-dimensional, but not quasi-separated https://mathoverflow.net/questions/37/non-quasi-separated-morphisms
