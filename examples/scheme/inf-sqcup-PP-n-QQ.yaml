@@ -5,3 +5,4 @@ adjectives:
   connected: [false, The disjoint union of (non-empty) schemes is not connected.]
   locally-noetherian: [true, Every $\PP^n_\QQ$ is locally noetherian.]
   quasi-compact: [false, "The natural open cover $\\{ \\PP^n_\\QQ \\}_{n \\ge 1}$ does not have a finite subcover."]
+  finite-dimensional: [false, "There is an infinite chain of irreducible closed subsets $X_i = \\sqcup_{n = 1}^{i} \\PP^n_\\QQ$."]

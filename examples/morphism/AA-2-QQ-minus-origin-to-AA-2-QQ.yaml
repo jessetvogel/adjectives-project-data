@@ -4,5 +4,6 @@ with:
   source: AA-2-QQ-minus-origin
   target: AA-2-QQ
 adjectives:
-  open-immersion: true
-  surjective: false
+  open-immersion: [true, It is the open complement of the origin (a closed point).]
+  surjective: [false, The origin does not lie in the image.]
+  closed: [false, The image is not closed.]

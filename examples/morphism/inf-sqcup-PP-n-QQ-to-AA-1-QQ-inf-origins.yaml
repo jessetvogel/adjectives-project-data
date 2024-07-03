@@ -9,3 +9,5 @@ adjectives:
   bundle-projective: [false]
   injective: [false, All points of $\PP^n_\QQ$ map to the same point.]
   flat: [false]
+  quasi-affine: [false, "The inverse image of any affine line is some copy of $\\PP^n_\\QQ$, none of which are quasi-affine."]
+  surjective: [false, "The points away from the origins do not lie in the image."]

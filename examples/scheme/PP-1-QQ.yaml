@@ -2,4 +2,6 @@ type: scheme
 name: $\PP^1_\QQ$
 description: The projective line over the rational numbers.
 adjectives:
-  affine: false
+  affine: [false, "Since $\\Spec \\Gamma(\\PP^1_\\QQ, \\mathcal{O}_{\\PP^1_\\QQ}) = \\Spec \\QQ \\not\\cong \\PP^1_\\QQ$."]
+  quasi-affine: [false]
+  integral: [true]

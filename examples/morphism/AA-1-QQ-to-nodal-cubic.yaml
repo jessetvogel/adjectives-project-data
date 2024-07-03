@@ -6,5 +6,5 @@ with:
   target: nodal-cubic
 adjectives:
   flat: false
-  homeomorphism: false
   unramified: true
+  injective: [false, "The points with $t = \\pm 1$ map to the same point."]

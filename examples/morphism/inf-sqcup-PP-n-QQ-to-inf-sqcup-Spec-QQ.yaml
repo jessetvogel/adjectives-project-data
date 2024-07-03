@@ -7,4 +7,6 @@ with:
 adjectives:
   bundle-projective: [true]
   h-projective: [false]
-  
+  etale: [true, "Locally, every copy of $\\PP^n_\\QQ \\to \\Spec \\QQ$ is étale."]
+  surjective: [true, "Every copy of $\\Spec \\QQ$ lies in the image of some copy of $\\PP^n_\\QQ$."]
+  quasi-affine: [false, "None of the copies of $\\PP^n_\\QQ$ are quasi-affine."]

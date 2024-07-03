@@ -5,3 +5,4 @@ adjectives:
   locally-noetherian: [true]
   finite-dimensional: [false]
   affine: [true, By definition.]
+  integral: [true, $A$ is a domain since it is a localization of the domain $R$.]

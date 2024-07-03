@@ -3,3 +3,6 @@ name: $\Spec \overline{\QQ}$
 description: The scheme $\Spec \overline{\QQ}$, where $\overline{\QQ}$ denotes an algebraic closure of $\QQ$.
 adjectives:
   affine: [true, By definition.]
+  integral: [true, "As $\\overline{\\QQ}$ is a domain."]
+  finite-dimensional: [true, Fields are zero-dimensional.]
+  regular: [true, Fields are regular local rings.]

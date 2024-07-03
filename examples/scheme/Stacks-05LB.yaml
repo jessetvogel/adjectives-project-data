@@ -1,5 +1,7 @@
 type: scheme
 name: Stacks 05LB
-description: "The scheme $\\Spec A$, where $A = R[x, y] / (xy, ay : a \\in I))$ with $R = \\mathcal{C}^\\infty(\\RR)$ and $I = \\{ f \\in R \\mid \\exists \\varepsilon > 0 \\textup{ s.t. } f(x) = 0 \\textup{ for all } |x| < \\varepsilon \\}$. See Stacks 05LB$."
+description: "The scheme $\\Spec A$, where $A = R[x, y] / (xy, ay : a \\in I))$ with $R = \\mathcal{C}^\\infty(\\RR)$ and $I = \\{ f \\in R \\mid \\exists \\varepsilon > 0 \\textup{ s.t. } f(x) = 0 \\textup{ for all } |x| < \\varepsilon \\}$. See Stacks 05LB."
 adjectives:
   affine: [true, By definition.]
+  irreducible: [false, Since $xy = 0$ in $A$.]
+  reduced: [true, Use that $R$ is reduced and that $I$ is radical.]

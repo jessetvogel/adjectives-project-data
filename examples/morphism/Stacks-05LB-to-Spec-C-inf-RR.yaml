@@ -1,6 +1,6 @@
 type: morphism
 name: Stacks 05LB to $\Spec \mathcal{C}^\infty(\RR)$
-description: The morphism as described in Stacks 05LB$.
+description: The morphism as described in Stacks 05LB.
 with:
   source: Stacks-05LB
   target: Spec-C-inf-RR
