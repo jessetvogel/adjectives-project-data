@@ -1,0 +1,6 @@
+type: scheme
+name: $\AA^2_\QQ$ with double origin
+description: Let $X_1 = X_2 = \AA^2_\QQ = \Spec \QQ[x, y]$. The scheme $X$ is obtained by gluing $X_1$ and $X_2$ along the complement of the origin $0 = (x, y)$.
+adjectives:
+  quasi-compact: [true, Both copies of $\AA^2_\QQ$ are quasi-compact (as they are affine).]
+  integral: [true]

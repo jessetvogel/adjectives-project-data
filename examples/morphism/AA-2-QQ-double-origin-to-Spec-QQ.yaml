@@ -1,0 +1,12 @@
+type: morphism
+name: $\AA^2_\QQ$ with double origin to $\Spec \QQ$
+description: The natural morphism from $\AA^2_\QQ$ with double origin to $\Spec \QQ$.
+with:
+  source: AA-2-QQ-double-origin
+  target: Spec-QQ
+adjectives:
+  semi-separated: [false, "The intersection of the two copies of $\\AA^2_\\QQ$ (which are both affine) is $\\AA^2_\\QQ \\setminus \\{ 0 \\}$, which is not affine."]
+  etale: [true, "Locally on the source, this morphism is the identity on $\\AA^2_\\QQ$, which is étale."]
+  surjective: [true, The target consists of a single point and the source is non-empty.]
+  finite-fibers: [false, "There is only one fiber, which is infinite."]
+  closed: [true, The target is topologically discrete.]

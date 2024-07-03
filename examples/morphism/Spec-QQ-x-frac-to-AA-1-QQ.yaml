@@ -6,8 +6,8 @@ with:
   target: AA-1-QQ
 adjectives:
   locally-of-finite-type: [false, "The ring $\\QQ(x)$ is not finitely generated as $\\QQ[x]$-algebra."]
-  monomorphism: [true]
-  surjective: [false]
+  monomorphism: [true, "$\\Hom(\\QQ(x), R) \\to \\Hom(\\QQ[x], R)$ is clearly injective for all commutative rings $R$."]
+  surjective: [false, The image contains none of the closed points.]
   open: [false, The generic point in $\AA^1_\QQ$ is not open.]
   closed: [false, The generic point in $\AA^1_\QQ$ is not closed.]
-  flat: [true]
+  flat: [true, The field of fractions is flat over any domain.]
