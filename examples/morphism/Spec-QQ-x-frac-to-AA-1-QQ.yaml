@@ -11,3 +11,4 @@ adjectives:
   open: [false, The generic point in $\AA^1_\QQ$ is not open.]
   closed: [false, The generic point in $\AA^1_\QQ$ is not closed.]
   flat: [true, The field of fractions is flat over any domain.]
+  formally-smooth: [true, "Let $A$ be a $\\QQ$-algebra and $I \\subset A$ an ideal with $I^2 = 0$. It suffices to show that if $f(a)$ is invertible in $A/I$ for all $f \\in \\QQ[x]$ and $a \\in A$, then $f(a)$ is invertible in $A$. Indeed, there exists an element $b \\in A$ such that $f(a) b = 1 + i$ for some $i \\in I$, and hence $f(a) (b - bi) = 1$ in $A$."]

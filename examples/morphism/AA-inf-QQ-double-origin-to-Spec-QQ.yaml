@@ -8,3 +8,6 @@ adjectives:
   surjective: [true, The target consists of one point and the source is non-empty.]
   quasi-separated: [false, "Denote the source by $X$ and $X_1, X_2 \\subset X$ the two copies of $\\AA^\\infty_\\QQ$. Now $\\Delta_{X/\\QQ}(X_1 \\times X_2) = \\AA^\\infty_\\QQ \\setminus \\{ 0 \\}$ is not quasi-compact."]
   closed: [true, The target has discrete topology.]
+  flat: [true, "Everything is flat over a field."]
+  open: [true, "The target is discrete."]
+  finite-fibers: [false, "There is only one fiber, which is infinite."]

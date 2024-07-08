@@ -8,3 +8,6 @@ adjectives:
   smooth: [false, Since $\partial (xy - t)/\partial x = y$ and $\partial (xy - t)/\partial y = x$ both vanish at the point $x = y = 0$.]
   closed: [false, "The image of the closed set $\\{ xy^2 = 1 \\}$ is the open set $\\{ x \\ne 0 \\}$, which is not closed."]
   locally-of-finite-presentation: [true, "Using the presentation $\\QQ[x, y] \\cong \\QQ[x, y, t] / (xy - t)$."]
+  flat: [true, "Since $\\QQ[x, y, t] / (xy - t) \\cong \\QQ[t] \\oplus \\bigoplus_{i \\ge 1} \\QQ[t] \\cdot x^i \\oplus \\bigoplus_{i \\ge 0} \\QQ[t] \\cdot y^i$, it is a free (and therefore flat) $\\QQ[t]$-module."]
+  surjective: [true, It has a section given by $x \mapsto t$ and $y \mapsto 1$.]
+  regular: [false, "The fiber $\\Spec \\QQ[x, y] / (xy)$ over $t = 0$ is not regular."]
