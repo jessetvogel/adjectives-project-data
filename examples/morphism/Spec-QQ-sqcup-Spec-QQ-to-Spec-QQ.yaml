@@ -1,0 +1,12 @@
+type: morphism
+name: $\Spec \QQ \sqcup \Spec \QQ \to \Spec \QQ$
+with:
+  source: Spec-QQ-sqcup-Spec-QQ
+  target: Spec-QQ
+adjectives:
+  flat: [true, Everything is flat over a field.]
+  injective: [false, Both points map to the same point.]
+  locally-of-finite-presentation: [true, "Follows from the presentation $\\Spec \\QQ \\sqcup \\Spec \\QQ \\cong \\Spec \\QQ[x] / (x^2 - 1)$."]
+  surjective: [true, The target consists of a single point and the source is non-empty.]
+  etale: [true, "Locally, the identity on $\\Spec \\QQ$ is étale."]
+  finite: [true, "$\\QQ^2$ is a finitely generated $\\QQ$-module."]
