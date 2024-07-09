@@ -5,6 +5,7 @@ This file contains ideas for examples and theorems which can be added.
 - target finite-dimensional + morphism (?) => source finite-dimensional
 - is there a relation between finite-dimensionality and Noetherianness?
 - projective from locally projective + conditions on the base? (and how to generalize the other projective adjectives?)
+- smooth = regular + lfp ?
 
 **Adjectives**
 - (universally) submersive
@@ -16,3 +17,4 @@ This file contains ideas for examples and theorems which can be added.
 - Hironaka's example [Hartshorne, Example B.3.4.1] (proper but not projective)
 - \Spec \overline{\QQ} \otimes \overline{\QQ} with doubled origin is finite-dimensional, but not quasi-separated https://mathoverflow.net/questions/37/non-quasi-separated-morphisms
 - Homeomorphism but not universally open: Exercise 12.23 of [Algebraic Geometry I: Schemes: With Examples and Exercises]
+- p.71 of Fulton's toric varieties: proper but not projective

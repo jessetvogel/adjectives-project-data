@@ -1,0 +1,9 @@
+type: morphism
+name: $\Spec \QQ \to \Spec \QQ \sqcup \Spec \QQ$
+with:
+  source: Spec-QQ
+  target: Spec-QQ-sqcup-Spec-QQ
+adjectives:
+  closed-immersion: [true, "It corresponds to a quotient $\\QQ^2 \\to \\QQ$."]
+  open-immersion: [true, "It is the open complement of a closed point."]
+  surjective: [false, The image contains only one of the two points.]
