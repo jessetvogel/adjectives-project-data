@@ -5,3 +5,4 @@ adjectives:
   affine: false
   integral: [true, "The blowup can be covered by affine patches $\\Spec \\QQ[x, y, u] / (uy - x) \\cong \\Spec \\QQ[y, u]$ and $\\Spec \\QQ[x, y, v] / (vx - y) \\cong \\Spec \\QQ[x, v]$, both of which are integral."]
   regular: true
+  quasi-compact: [true, "As it can be covered by two affine patches."]

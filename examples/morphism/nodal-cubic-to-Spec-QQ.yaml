@@ -1,0 +1,8 @@
+type: morphism
+name: nodal cubic to $\Spec \QQ$
+with:
+  source: nodal-cubic
+  target: Spec-QQ
+adjectives:
+  flat: [true, Everything is flat over a field.]
+  locally-of-finite-presentation: [true, By definition of the nodal cubic.]

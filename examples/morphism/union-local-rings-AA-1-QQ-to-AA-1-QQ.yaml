@@ -1,6 +1,6 @@
 type: morphism
-name: $\sqcup_{x \in \AA^1_\QQ} \Spec(\mathcal{O}_{\AA^1_\QQ, x}) \to \AA^1_\QQ$
-description: The natural morphism from $\sqcup_{x \in \AA^1_\QQ} \Spec(\mathcal{O}_{\AA^1_\QQ, x})$ to $\AA^1_\QQ$.
+name: $\sqcup_{x \in \AA^1_\QQ} \Spec \mathcal{O}_{\AA^1_\QQ, x} \to \AA^1_\QQ$
+description: The natural morphism from $\sqcup_{x \in \AA^1_\QQ} \Spec \mathcal{O}_{\AA^1_\QQ, x}$ to $\AA^1_\QQ$.
 with:
   source: union-local-rings-AA-1-QQ
   target: AA-1-QQ

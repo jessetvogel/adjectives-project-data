@@ -5,3 +5,4 @@ adjectives:
   affine: [true, By definition.]
   integral: [true, The ring $\QQ \llbracket x \rrbracket$ is a domain.]
   locally-noetherian: [true, "The ring $\\QQ \\llbracket x \\rrbracket$ is Noetherian."]
+  finite-dimensional: [true, "It consists of a single point, so it is zero-dimensional."]

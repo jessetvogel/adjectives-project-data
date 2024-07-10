@@ -5,3 +5,4 @@ adjectives:
   affine: [true, By definition.]
   integral: [false, There are zero-divisors as $x_i x_j = 0$ for all $i \ne j$.]
   reduced: [true, "Any element of this ring is of the form $f = \\sum_{i \\ge 0} a_i x_i$ with finitely many $a_i \\ne 0$. Then $f^n = \\sum_{i \\ge 0} a_i^n x_i$ being zero implies all $a_i = 0$, that is, $f = 0$."]
+  finite-dimensional: [true]

@@ -1,7 +1,8 @@
 type: scheme
 name: affine line with doubled $\NN$
+description: "The affine line over $\\QQ$ with all points in $\\NN$ doubled. It can be constructed as follows. For any $n \\in \\NN$ let $X_n = \\AA^1_\\QQ$, and let $X_{ij} = X_i \\setminus \\{ i, j \\}$ for all $i, j \\in \\NN$. The transition maps $\\varphi_{ij} : X_{ij} \\to X_{ji}$ are the identity maps, obviously satisfying the cocycle conditions. The scheme is obtained by gluing."
 adjectives:
   integral: [true, Every copy of $\AA^1_\QQ$ is integral.]
-  locally-noetherian: [true, Every copy of $\AA^1_\QQ$ is locally noetherian.]
+  locally-noetherian: [true, Every copy of $\AA^1_\QQ$ is locally Noetherian.]
   separated: [false]
-description: "The affine line over $\\QQ$ with all points in $\\NN$ doubled. It can be constructed as follows. For any $n \\in \\NN$ let $X_n = \\AA^1_\\QQ$, and let $X_{ij} = X_i \\setminus \\{ i, j \\}$ for all $i, j \\in \\NN$. The transition maps $\\varphi_{ij} : X_{ij} \\to X_{ji}$ are the identity maps, obviously satisfying the cocycle conditions. The scheme is obtained by gluing."
+  finite-dimensional: [true, "Every copy of $\\AA^1_\\QQ$ has dimension $1$."]
