@@ -11,4 +11,6 @@ adjectives:
   closed: [false, The image of the closed set corresponding to $\NN$ is not closed.]
   formally-etale: true
   open: false
-  
+  regular: [true, "The morphism is flat, and all fibers are indeed locally Noetherian and geometrically regular."]
+  injective: [true, "By construction."]
+  monomorphism: [true, "Any morphism to $\\sqcup_{x \\in \\AA^1_\\QQ} \\Spec \\mathcal{O}_{\\AA^1_\\QQ, x}$ is determined by its composition to $\\AA^1_\\QQ$."]

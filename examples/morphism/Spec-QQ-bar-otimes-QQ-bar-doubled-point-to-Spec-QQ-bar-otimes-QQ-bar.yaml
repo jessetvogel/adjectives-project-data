@@ -1,0 +1,9 @@
+type: morphism
+name: $\Spec \overline{\QQ} \otimes_\QQ \overline{\QQ}$ with doubled point to $\Spec \overline{\QQ} \otimes_\QQ \overline{\QQ}$
+description: The projection of the affine line with double origin over the rational numbers to the affine line.
+with:
+  source: Spec-QQ-bar-otimes-QQ-bar-doubled-point
+  target: Spec-QQ-bar-otimes-QQ-bar
+adjectives:
+  quasi-separated: [false]
+  etale: [true, "Locally on the source, this morphism is the identity, which is étale."]

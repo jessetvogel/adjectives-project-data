@@ -8,4 +8,6 @@ adjectives:
   flat: [true, "The local ring $R_\\mathfrak{m}$ is $\\QQ$ (as $x_i - 1 \\not\\in \\mathfrak{m}$ for all $i$) and $\\QQ$ is flat over itself."]
   open: [false, "$\\{ \\mathfrak{m} \\}$ is not open in $\\Spec R$."]
   closed-immersion: [true, "As $\\QQ = R/\\mathfrak{m}$ is a quotient of $R$."]
-  surjective: false
+  surjective: [false, "The target has more than one point, for instance the maximal ideal $(x_1, x_2, \\ldots, x_{i - 1}, x_i - 1, x_{i + 1}, \\ldots)$ for every $i$."]
+  regular: [true, "The only fibers are $\\varnothing$ and $\\Spec \\QQ$ itself, both of which are locally Noetherian. Furthermore, this morphism is flat at the unique point of $\\Spec \\QQ$, and the fiber $\\Spec \\QQ$ is geometrically regular over $\\QQ$."]
+  formally-smooth: [true, "Any morphism $R \\to A$ trivially 'extends' to $\\QQ \\to A$."]

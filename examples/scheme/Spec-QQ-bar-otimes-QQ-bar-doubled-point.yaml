@@ -1,0 +1,5 @@
+type: scheme
+name: $\Spec \overline{\QQ} \otimes_\QQ \overline{\QQ}$ with doubled point
+description: "Let $X = \\Spec \\overline{\\QQ} \\otimes_\\QQ \\overline{\\QQ}$, and let $U \\subset X$ be the open complement of the closed point of $X$ corresponding to the multiplication map $\\overline{\\QQ} \\otimes_\\QQ \\overline{\\QQ} \\to \\overline{\\QQ}$ given by $a \\otimes b \\mapsto ab$. Then glue two copies of $X$ along $U$ to obtain $X \\sqcup_U X$."
+adjectives:
+  finite-dimensional: [true, "The scheme is zero-dimensional."]
