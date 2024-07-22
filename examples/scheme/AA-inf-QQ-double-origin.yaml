@@ -5,3 +5,4 @@ adjectives:
   finite-dimensional: [false]
   integral: [true]
   quasi-compact: [true, "Both copies of $\\AA^\\infty_\\QQ$ are quasi-compact as they are affine."]
+  locally-factorial: [true, "Polynomial ring in infinitely many variables is a UFD. "]

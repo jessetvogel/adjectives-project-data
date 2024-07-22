@@ -6,3 +6,4 @@ adjectives:
   integral: [true, "The ring $\\QQ[x_1, x_2, \\ldots]$ is a domain."]
   finite-dimensional: [false, "There is an infinite chain of prime ideals $(0) \\subsetneq (x_1) \\subsetneq (x_1, x_2) \\subsetneq (x_1, x_2, x_3) \\subsetneq \\cdots$."]
   locally-noetherian: [false, "There is an infinite chain of ideals $(0) \\subsetneq (x_1) \\subsetneq (x_1, x_2) \\subsetneq (x_1, x_2, x_3) \\subsetneq \\cdots$."]
+  locally-factorial: [true, "Polynomial ring in infinitely many variables is a UFD. "]
