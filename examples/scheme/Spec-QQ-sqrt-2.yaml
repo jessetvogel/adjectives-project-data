@@ -6,3 +6,4 @@ adjectives:
   integral: true
   regular: true
   locally-noetherian: true
+  excellent: [true, Fields are excellent rings. ]

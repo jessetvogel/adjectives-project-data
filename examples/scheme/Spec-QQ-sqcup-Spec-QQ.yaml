@@ -6,3 +6,4 @@ adjectives:
   connected: [false, It has two connected components.]
   reduced: [true, The ring $\QQ \times \QQ$ is reduced.]
   locally-noetherian: [true, The ring $\QQ \times \QQ$ is Noetherian.]
+  excellent: [true, Fields are excellent rings, and excellence is Zariski local. ]

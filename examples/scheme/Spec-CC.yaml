@@ -6,3 +6,4 @@ adjectives:
   integral: [true, The ring $\CC$ is a domain.]
   regular: [true, Fields are regular local rings.]
   finite-dimensional: [true, Fields are zero-dimensional.]
+  excellent [true, Fields are excellent rings. ]

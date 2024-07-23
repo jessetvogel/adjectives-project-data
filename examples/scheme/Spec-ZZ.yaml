@@ -7,3 +7,4 @@ adjectives:
   finite-dimensional: [ true, It has dimension $1$ as the longest chain of prime ideals is $(0) \subsetneq (p)$ for any prime number $p$.]
   locally-noetherian: [ true, $\ZZ$ is Noetherian as it is a PID.]
   regular: [true, "Since PIDs are regular, and localizations of regular rings are regular, $\\ZZ$ is regular as well as all of its stalks."]
+  excellent: [true, Dedekind rings of characteristic zero are excellent. ]
