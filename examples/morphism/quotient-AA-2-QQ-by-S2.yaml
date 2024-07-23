@@ -1,0 +1,10 @@
+type: morphism
+name: $\AA^2_\QQ \to \AA^2_\QQ / S_2$
+description: "The morphism $\\Spec \\QQ[y_1, y_2] \\to \\Spec \\QQ[x_1, x_2]$ given by $x_1 \\mapsto y_1 + y_2$ and $x_2 \\mapsto y_1 y_2$."
+with:
+  source: AA-2-QQ
+  target: AA-2-QQ
+adjectives:
+  smooth: [false, "The Jacobian matrix corresponding to the presentation $\\QQ[x_1, x_2][y_1, y_2] / (x_1 - y_1 - y_2, x_2 - y_1 y_2)$ is $\\begin{pmatrix} -1 & -1 \\\\ -y_2 & -y_1 \\end{pmatrix}$, which does not have full rank when $y_1 = y_2$."]
+  syntomic: [true, "Combine [Stacks 00SR] with [Stacks 00SW]."]
+  injective: [false, "Points $(y_1, y_2)$ and $(y_2, y_1)$ map to the same point even when $y_1 \\ne y_2$."]
