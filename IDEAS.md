@@ -17,4 +17,6 @@ This file contains ideas for examples and theorems which can be added.
 - Homeomorphism but not universally open: Exercise 12.23 of [Algebraic Geometry I: Schemes: With Examples and Exercises]
 - p.71 of Fulton's toric varieties: proper but not projective
 - Universal homeomorphism that is not of finite type & universal homeomorphism of finite type but not of finite presentation: Remark 10 of https://www.ms.u-tokyo.ac.jp/~kelly/pdfs/uh%20non-fp.pdf, also see Exercise 6.8.3b of Eléments de mathématique. Fasc. XXX. Algèbre commutative
-- 
+- locally projective but not projective: https://mathoverflow.net/questions/47208/is-projectivity-local-on-the-base
+- A^inf with doubled origin to A^inf is probably universally closed - find a proof! 
+- for finite locally free not systemic, maybe look at https://www.math.leidenuniv.nl/~lenstrahw/PUBLICATIONS/1997c/art.pdf for inspiration. 
