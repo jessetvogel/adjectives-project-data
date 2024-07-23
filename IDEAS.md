@@ -3,7 +3,6 @@ This file contains ideas for examples and theorems which can be added.
 **Theorems**
 - is there a relation between finite-dimensionality and Noetherianness?
 - projective from locally projective + conditions on the base? (and how to generalize the other projective adjectives?)
-- smooth = regular + lfp ?
 - universally injective + (universally) surjective => universally bijective => universally open & closed
 
 **Adjectives**
