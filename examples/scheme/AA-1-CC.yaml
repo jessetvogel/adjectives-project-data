@@ -1,0 +1,6 @@
+type: scheme
+name: $\AA^1_\CC$
+description: The affine line over the complex numbers.
+adjectives:
+  affine: true
+  integral: true

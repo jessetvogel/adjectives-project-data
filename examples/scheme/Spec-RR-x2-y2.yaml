@@ -1,0 +1,5 @@
+type: scheme
+name: $\Spec \RR[x, y] / (x^2 + y^2)$
+description: The scheme $\Spec \RR[x, y] / (x^2 + y^2)$.
+adjectives:
+  affine: true
