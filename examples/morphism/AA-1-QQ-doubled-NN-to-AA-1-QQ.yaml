@@ -9,3 +9,4 @@ adjectives:
   etale: [true, Being étale is local on the source.]
   separated: false
   surjective: true
+  finite-fibers: [true, "Every fiber has at most 2 elements, and each of these elements is open in the fiber. "]
