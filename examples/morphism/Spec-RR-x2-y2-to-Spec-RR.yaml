@@ -6,4 +6,4 @@ with:
   target: Spec-RR
 adjectives:
   affine: true
-  finite-presentation: true
+  of-finite-presentation: true

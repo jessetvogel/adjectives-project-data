@@ -7,6 +7,6 @@ with:
 adjectives:
   homeomorphism: [true, "Away from the point with $x = 0$ we have an inverse given by $x \\mapsto x$ and $i \\mapsto y/x$. Since the Zariski topology on a curve is cofinite, the whole morphism is a homeomorphism."]
   universally-open: [false, "The base change along $\\RR[x, y] / (x^2 + y^2) \\to \\CC[x, y] / (x^2 + y^2)$ is the morphism $\\AA^1_\\CC \\sqcup \\AA^1_\\CC \\to \\Spec \\CC[x, y] / (x^2 + y^2)$, that is, the normalization of the coordinate axis in the complex plane, which is not open: the image of a single coordinate axis is not open."]
-  h-projective: [true, "Embeds in product with $\mathbb P^1$."]
+  h-projective: [true, "Embeds in product with $\\PP^1$."]
   of-finite-presentation: true
   finite: true
