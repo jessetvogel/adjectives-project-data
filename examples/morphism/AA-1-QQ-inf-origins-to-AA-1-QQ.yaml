@@ -9,3 +9,6 @@ adjectives:
   etale: [true, Being étale is local on the source.]
   injective: [false, All origins map to the same point.]
   surjective: true
+  separated: false
+  finite-fibers: false
+  semi-separated: [true, "The target can be covered by infinitely many affine lines, each of whose pullback is either a copy of the affine line, or a copy of (the affine line minus the origin); both of these are themselves affine."]

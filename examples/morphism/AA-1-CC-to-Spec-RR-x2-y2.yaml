@@ -10,3 +10,4 @@ adjectives:
   h-projective: [true, "Embeds in product with $\\PP^1$."]
   of-finite-presentation: true
   finite: true
+  unramified: false
