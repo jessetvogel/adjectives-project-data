@@ -12,3 +12,6 @@ adjectives:
   surjective: [true, "The generic point maps to the generic point, and every point has a 'square root'."]
   finite: [true, "$\\QQ[x]$ is a finitely generated $\\QQ[x^2]$-module, since $\\QQ[x] \\cong \\QQ[x^2] \\oplus x \\cdot \\QQ [x^2]$."]
   # regular: [false, "The fiber over $x = 0$ is $\\Spec \\QQ[x]/(x^2)$ which is not regular as it is not reduced."]
+  h-projective: true
+  injective: false
+  syntomic: true
