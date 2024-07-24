@@ -8,3 +8,7 @@ adjectives:
   flat: [false, "The dimension of the fibre over the origin is 1, which is not the difference between the dimension of the domain and the dimension of the target."]
   surjective: true
   locally-of-finite-type: [true, "Outside of the exceptional divisor it is an isomorphism. Inside the exceptional divisor, it looks like $\\PP^1_\\QQ \\to \\AA^2_\\QQ$ mapping to the origin, which is also locally of finite type."]
+  H-projective: [true, "It embeds in $\mathbb P^1_{\mathbb A^2}$."]
+  finite-fibers: [false]
+  open: [false]
+  formally-unramified: [false]
