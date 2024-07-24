@@ -1,0 +1,9 @@
+type: morphism
+name: $\Spec \RR[x, y] / (x^2 + y^2) \to \Spec \RR$
+description: The structure morphism.
+with:
+  source: Spec-RR-x2-y2
+  target: Spec-RR
+adjectives:
+  affine: true
+  finite-presentation: true
