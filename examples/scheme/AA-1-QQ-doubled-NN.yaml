@@ -6,4 +6,4 @@ adjectives:
   locally-noetherian: [true, Every copy of $\AA^1_\QQ$ is locally Noetherian.]
   separated: [false]
   finite-dimensional: [true, "Every copy of $\\AA^1_\\QQ$ has dimension $1$."]
-  quasi-compact: [false, "Call a point "new" if it lies over a natural number and is not contained in $X_1$. Then any affine open can contain at most finitely many new points, otherwise its intersection with $X_1$ would not be open." ]
+  quasi-compact: [false, "Call a point 'new' if it lies over a natural number and is not contained in $X_1$. Then any affine open can contain at most finitely many new points, otherwise its intersection with $X_1$ would not be open." ]

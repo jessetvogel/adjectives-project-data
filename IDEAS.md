@@ -13,8 +13,6 @@ This file contains ideas for examples and theorems which can be added.
 
 **Examples**
 - Hironaka's example [Hartshorne, Example B.3.4.1] (proper but not projective)
-- \Spec \overline{\QQ} \otimes \overline{\QQ} with doubled origin is finite-dimensional, but not quasi-separated https://mathoverflow.net/questions/37/non-quasi-separated-morphisms
-- Homeomorphism but not universally open: Exercise 12.23 of [Algebraic Geometry I: Schemes: With Examples and Exercises]
 - p.71 of Fulton's toric varieties: proper but not projective
 - Universal homeomorphism that is not of finite type & universal homeomorphism of finite type but not of finite presentation: Remark 10 of https://www.ms.u-tokyo.ac.jp/~kelly/pdfs/uh%20non-fp.pdf, also see Exercise 6.8.3b of Eléments de mathématique. Fasc. XXX. Algèbre commutative
 - locally projective but not projective: https://mathoverflow.net/questions/47208/is-projectivity-local-on-the-base
