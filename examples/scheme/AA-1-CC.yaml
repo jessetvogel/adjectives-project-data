@@ -4,3 +4,7 @@ description: The affine line over the complex numbers.
 adjectives:
   affine: true
   integral: true
+  regular: true
+  excellent: true
+  jacobson: true
+

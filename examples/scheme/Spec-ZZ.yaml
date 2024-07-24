@@ -8,3 +8,4 @@ adjectives:
   locally-noetherian: [ true, $\ZZ$ is Noetherian as it is a PID.]
   regular: [true, "Since PIDs are regular, and localizations of regular rings are regular, $\\ZZ$ is regular as well as all of its stalks."]
   excellent: [true, Dedekind rings of characteristic zero are excellent. ]
+  jacobson: true

@@ -7,3 +7,4 @@ adjectives:
   regular: [true, Fields are regular local rings.]
   finite-dimensional: [true, Fields are zero-dimensional.]
   excellent: [true, Fields are excellent rings.]
+  jacobson: true
