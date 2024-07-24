@@ -6,6 +6,7 @@ with:
   target: AA-inf-QQ
 adjectives:
   etale: [true, "Locally, it is the identity morphism, which is étale."]
+  universally-closed: [true, "The source can be covered by finitely many opens $U_i$ ($U_1 = U_2 = \\AA^\\infty_\\QQ$) such that the restrictions $U_i \\to \\AA^\\infty_\\QQ$ are universally closed (in fact, they are the identity)."]
   surjective: [true]
   finite-fibers: [true]
   closed: [true]

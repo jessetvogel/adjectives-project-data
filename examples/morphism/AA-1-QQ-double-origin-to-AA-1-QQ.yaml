@@ -8,6 +8,6 @@ adjectives:
   separated: [false, "Write $X$ for the affine line with double origin. Let $f : \\AA^1_\\QQ \\to X \\times_{\\AA^1_\\QQ} X$ be the morphism induced from the two different inclusions $\\AA^1_\\QQ \\to X$. Then $f^{-1}(\\Delta_{X/\\AA^1_\\QQ}(X)) = \\AA^1_\\QQ \\setminus \\{ 0 \\}$ is not closed, so the diagonal is not closed."]
   semi-separated: [true, "Write $X$ for the affine line with double origin. Then $\\Delta_{X/\\AA^1_\\QQ}$ is affine as $X \\times_{\\AA^1_\\QQ} X$ can be covered by affines (four affine lines) whose pre-images are all affine."]
   etale: [true, "Locally on the source, this morphism is the identity on $\\AA^1_\\QQ$, which is étale."]
-  universally-closed: [true]
+  universally-closed: [true, "The source can be covered by finitely many opens $U_i$ ($U_1 = U_2 = \\AA^1_\\QQ$) such that the restrictions $U_i \\to \\AA^1_\\QQ$ are universally closed (in fact, they are the identity)."]
   surjective: [true]
   quasi-finite: [true, "It is of finite type and has finite fibers."]
