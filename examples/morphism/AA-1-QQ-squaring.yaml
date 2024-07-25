@@ -8,10 +8,9 @@ adjectives:
   flat: [true, "$\\QQ[x] \\cong \\QQ[x^2] \\oplus x \\cdot \\QQ [x^2]$ as $\\QQ[x^2]$-module, and free modules are flat."]
   smooth: [false, "It is not smooth at the origin, since $\\partial x^2 / \\partial x = 2x$ evaluates to $0$ at $x = 0$."]
   locally-of-finite-presentation: [true, "$\\QQ[x, y] / (y^2 - x)$ is of finite presentation over $\\QQ[x]$."]
-  homeomorphism: [false, Injectivity fails.]
   surjective: [true, "The generic point maps to the generic point, and every point has a 'square root'."]
   finite: [true, "$\\QQ[x]$ is a finitely generated $\\QQ[x^2]$-module, since $\\QQ[x] \\cong \\QQ[x^2] \\oplus x \\cdot \\QQ [x^2]$."]
   # regular: [false, "The fiber over $x = 0$ is $\\Spec \\QQ[x]/(x^2)$ which is not regular as it is not reduced."]
+  injective: [false, "For instance, both $x = \\pm 1$ map to the same point."]
   h-projective: true
-  injective: false
   syntomic: true
