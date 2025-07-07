@@ -1,0 +1,6 @@
+type: theorem
+name: finite surjective morphisms with affine source and noetherian target have affine target
+given: morphism f
+if: [f finite, f surjective, f.source affine, f.target noetherian]
+then: f.target affine
+description: https://stacks.math.columbia.edu/tag/01YQ
