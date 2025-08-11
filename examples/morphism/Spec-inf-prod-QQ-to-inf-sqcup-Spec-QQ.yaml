@@ -1,0 +1,10 @@
+type: morphism
+name: $\sqcup_{i = 1}^{\infty} \Spec \QQ \to \Spec \left( \prod_{i = 1}^{\infty} \QQ \right)$
+description: The disjoint union of the morphisms $\Spec \QQ \to \Spec \left( \prod_{i = 1}^{\infty} \QQ \right)$ corresponding to the natural projections $\prod_{i = 1}^{\infty} \QQ \to \QQ$.
+with:
+  source: inf-sqcup-Spec-QQ
+  target: Spec-inf-prod-QQ
+adjectives:
+  injective: [true, "By construction."]
+  flat: [true, "All morphisms on the level of stalks are of the form $\\QQ \\to \\QQ$."]
+  surjective: true

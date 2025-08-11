@@ -1,0 +1,9 @@
+type: scheme
+name: $\Spec \left( \prod_{i = 1}^{\infty} \QQ \right)$
+description: The spectrum of the infinite product of copies of $\QQ$.
+adjectives:
+  affine: [true, By definition.]
+  finite-dimensional: [true, "The ring $\\prod_{i = 1}^{\\infty} \\QQ$ is zero-dimensional."]
+  locally-noetherian: [false, "The ascending chain of ideals $I_1 \\subseteq I_2 \\subseteq \\cdots$ with $I_n = \\prod_{i = 1}^{n} \\QQ$ is not stationary."]
+  reduced: [true, "The ring $\\prod_{i = 1}^{\\infty} \\QQ$ is reduced."]
+  connected: [false, "The decomposition of rings $\\prod_{i = 1}^{\\infty} \\QQ \\cong \\QQ \\times \\prod_{i = 2}^{\\infty} \\QQ$ induces a decomposition of $\\Spec \\left( \\prod_{i = 1}^{\\infty} \\QQ \\right)$, which is therefore not connected."]
