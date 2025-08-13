@@ -7,4 +7,4 @@ with:
 adjectives:
   injective: [true, "By construction."]
   flat: [true, "All morphisms on the level of stalks are of the form $\\QQ \\to \\QQ$."]
-  surjective: true
+  surjective: false

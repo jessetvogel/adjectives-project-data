@@ -1,0 +1,9 @@
+type: morphism
+name: union local rings to $\Spec \left( \prod_{i = 1}^{\infty} \QQ \right)$
+description: The natural morphism $\bigsqcup_{x \in X} \Spec \mathcal{O}_{X, x} \to X$ for $X = \Spec \left( \prod_{i = 1}^{\infty} \QQ \right)$.
+with:
+  source: union-local-rings-Spec-inf-prod-QQ
+  target: Spec-inf-prod-QQ
+adjectives:
+  flat: [true, "All morphisms on the level of stalks are the identity."]
+  surjective: [true, "By construction."]

@@ -1,0 +1,6 @@
+type: scheme
+name: union local rings of $\Spec \left( \prod_{i = 1}^{\infty} \QQ \right)$
+description: The scheme $\bigsqcup_{x \in X} \Spec \mathcal{O}_{X, x}$ for $X = \Spec \left( \prod_{i = 1}^{\infty} \QQ \right)$.
+adjectives:
+  quasi-compact: [false, "The open cover $\\{ \\Spec \\mathcal{O}_{X, x} \\}_{x \\in X}$ does not admit a finite subcover."]
+  connected: [false, Any disjoint union of (non-empty) schemes is not connected.]
