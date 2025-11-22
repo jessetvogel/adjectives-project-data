@@ -1,5 +1,6 @@
 type: theorem
 name: morphisms with quasi-compact source are quasi-compact
 given: morphism f
-if: f.source quasi-compact
+if: [f.source quasi-compact, f.target quasi-separated]
 then: f quasi-compact
+description: https://stacks.math.columbia.edu/tag/073B
