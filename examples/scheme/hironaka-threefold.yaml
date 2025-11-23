@@ -1,0 +1,3 @@
+type: scheme
+name: Hironaka's non-projective threefold
+description: "The variety as described in Example 3.4.1 on p. 443 of Algebraic Geometry by Hartshorne. Explicitly, take $X = \\PP^3_\\QQ$ with coordinates $(w:x:y:z)$, and take $C = \\{ y = z = 0 \\}$ and $D = \\{ z = 0, y^2 - wx - w^2 = 0 \\}$."

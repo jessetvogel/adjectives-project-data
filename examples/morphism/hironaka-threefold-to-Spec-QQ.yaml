@@ -1,0 +1,9 @@
+type: morphism
+name: Hironaka's non-projective threefold to $\Spec \QQ$
+description: The structure morphism from Hironaka's non-projective threefold to $\Spec \QQ$.
+with:
+  source: hironaka-threefold
+  target: Spec-QQ
+adjectives:
+  locally-projective: [true]
+  projective: [false, "See Example 3.4.1 on p. 443 of Algebraic Geometry by Hartshorne."]
