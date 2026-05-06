@@ -5,5 +5,4 @@ with:
   source: Spec-RR-x2-y2
   target: Spec-RR
 adjectives:
-  affine: true
   of-finite-presentation: true

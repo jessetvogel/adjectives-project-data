@@ -9,6 +9,5 @@ adjectives:
   surjective: true
   locally-of-finite-type: [true, "Outside of the exceptional divisor it is an isomorphism. Inside the exceptional divisor, it looks like $\\PP^1_\\QQ \\to \\AA^2_\\QQ$ mapping to the origin, which is also locally of finite type."]
   h-projective: [true, "It embeds in $\PP^1_{\\AA^2}$."]
-  finite-fibers: [false]
   open: [false]
   formally-unramified: [false]
