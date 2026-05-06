@@ -1,0 +1,12 @@
+type: morphism
+name: Hironaka's non-projective threefold to $\PP^3_\QQ$
+description: The blow-down map from Hironaka's non-projective threefold to $\PP^3_\QQ$.
+
+with:
+  source: hironaka-threefold
+  target: PP-3-QQ
+
+adjectives:
+  locally-projective: true
+  projective: false
+  flat: false

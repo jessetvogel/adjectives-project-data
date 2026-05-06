@@ -5,5 +5,10 @@ with:
   source: hironaka-threefold
   target: Spec-QQ
 adjectives:
-  locally-projective: [true]
+  proper: true
+  smooth: true
+  surjective: true
+  unramified: false
+  quasi-affine: false
+  locally-projective: [false, "See Example 3.4.1 on p. 443 of Algebraic Geometry by Hartshorne."]
   projective: [false, "See Example 3.4.1 on p. 443 of Algebraic Geometry by Hartshorne."]

@@ -1,0 +1,8 @@
+type: scheme
+name: $\Spec \QQ[x,y]/(x,y)^2$
+description: The scheme $\Spec \QQ[x,y]/(x^2,xy,y^2)$.
+
+adjectives:
+  affine: [true, By definition.]
+  reduced: [false, "The element $x \\in \\QQ[x,y]/(x^2,xy,y^2)$ is nilpotent."]
+  irreducible: [true, "The underlying topological space has only one point."]
