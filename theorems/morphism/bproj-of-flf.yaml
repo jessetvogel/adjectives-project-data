@@ -1,0 +1,6 @@
+type: theorem
+name: finite locally free morphisms are bundle-projective
+given: morphism f
+if: f finite-locally-free
+then: f bundle-projective
+description: "If $f : X \\to Y$ is finite locally free, then $\\mathcal{A} = f_* \\mathcal{O}_X$ is a finite locally free $\\mathcal{O}_Y$-module and $X = \\mathbf{Spec}_Y \\mathcal{A}$. The natural surjection $\\mathrm{Sym}(\\mathcal{A}) \\to \\mathcal{A}$ gives a closed immersion into the vector bundle associated to $\\mathcal{A}$, hence into $\\PP_Y(\\mathcal{O}_Y \\oplus \\mathcal{A})$; since $f$ is finite, this immersion is closed."

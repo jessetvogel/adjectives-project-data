@@ -1,0 +1,16 @@
+type: morphism
+name: $\Spec \FF_2(t_1^{1/2}, t_2^{1/2}, t_3^{1/2}, \ldots) \to \Spec \FF_2(t_1, t_2, t_3, \ldots)$
+description: |
+  Let $k = \FF_2(t_1, t_2, t_3, \ldots)$ and $K = \FF_2(t_1^{1/2}, t_2^{1/2}, t_3^{1/2}, \ldots)$,
+  with the inclusion $k \hookrightarrow K$ sending $t_i$ to $(t_i^{1/2})^2$.
+  Consider the induced morphism $\Spec K \to \Spec k$.
+
+with:
+  source: Spec-FF2-inf-t-sqrt
+  target: Spec-FF2-inf-t
+
+adjectives:
+  finite: [false, "$K/k$ has subextensions of degree $2^n$ for every $n$, so $K$ is infinite-dimensional over $k$."]
+  integral: [true, "Each $t_i^{1/2}$ satisfies $x^2 - t_i = 0$, hence $K/k$ is integral."]
+  universally-injective: [true, "The field extension $K/k$ is purely inseparable."]
+  surjective: [true, Both source and target have a single point.]

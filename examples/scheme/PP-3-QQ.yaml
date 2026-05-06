@@ -1,0 +1,6 @@
+type: scheme
+name: $\PP^3_\QQ$
+description: The projective 3-space over the rational numbers.
+
+adjectives:
+  noetherian: true
