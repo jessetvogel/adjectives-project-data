@@ -11,4 +11,3 @@ adjectives:
   unramified: false
   quasi-affine: false
   locally-projective: [false, "See Example 3.4.1 on p. 443 of Algebraic Geometry by Hartshorne."]
-  projective: [false, "See Example 3.4.1 on p. 443 of Algebraic Geometry by Hartshorne."]
