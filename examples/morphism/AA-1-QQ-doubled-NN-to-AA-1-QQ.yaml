@@ -7,6 +7,5 @@ with:
 adjectives:
   closed: [false, "As our closed set, take the point $n$ on $X_n$ for all integers $n$. This is a closed set (check by seeing that the intersection with every $X_n$ is closed), but its image is clearly not closed."]
   etale: [true, Being étale is local on the source.]
-  separated: false
   surjective: true
   finite-fibers: [true, "Every fiber has at most 2 elements, and each of these elements is open in the fiber. "]

@@ -6,7 +6,6 @@ with:
 description: "The morphism from $\\AA^1_\\QQ$ to $\\PP^1_\\QQ$ given by $x \\mapsto ((x + 1)^2 : x^2)$."
 adjectives:
   closed: [true, "Closed points map to closed points, and the image of $\\AA^1_\\QQ$ is the whole of $\\PP^1_\\QQ$."]
-  universally-closed: [false]
   affine: [true]
   finite-fibers: [true, "Every fiber has either one or two points."]
   surjective: [true]
