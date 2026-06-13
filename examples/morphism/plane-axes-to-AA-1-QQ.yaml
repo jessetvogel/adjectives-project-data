@@ -1,6 +1,6 @@
 type: morphism
 name: $\Spec \QQ[x, y]/(xy) \to \AA^1_\QQ$
-description: The morphism from $\Spec \QQ[x, y]/(xy)$ to $\AA^1_\QQ$ given by projection to the $x$-axis, that is, the morphism corresponding to the natural ring morphism $\QQ[x] \to \QQ[x, y]/(x, y)$.
+description: The morphism from $\Spec \QQ[x, y]/(xy)$ to $\AA^1_\QQ$ given by projection to the $x$-axis, that is, the morphism corresponding to the natural ring morphism $\QQ[x] \to \QQ[x, y]/(xy)$.
 with:
   source: plane-axes
   target: AA-1-QQ
