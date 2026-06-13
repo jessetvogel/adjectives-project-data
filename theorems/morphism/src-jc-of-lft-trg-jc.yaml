@@ -3,3 +3,4 @@ name: morphisms locally of finite type with Jacobson target have Jacobson source
 given: morphism f
 if: [f locally-of-finite-type, f.target jacobson]
 then: f.source jacobson
+description: https://stacks.math.columbia.edu/tag/02J5
