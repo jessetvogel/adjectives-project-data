@@ -8,3 +8,4 @@ adjectives:
   finite-dimensional: [true, "It consists of a single point, so it is zero-dimensional."]
   excellent: [true, Characteristic zero Dedekind rings are excellent. ]
   regular: [true, "$\\QQ \\llbracket x \\rrbracket$ is a discrete valuation ring, hence a regular local ring."]
+  jacobson: [false, "$\\QQ \\llbracket x \\rrbracket$ is a DVR, so $\\Spec \\QQ \\llbracket x \\rrbracket$ has a non-closed generic point whose closure is the whole space."]
