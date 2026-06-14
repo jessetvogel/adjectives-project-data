@@ -5,5 +5,4 @@ adjectives:
   affine: [true, By definition.]
   reduced: [false, "The element $x \\in \\QQ[x]/(x^2)$ is nilpotent."]
   irreducible: [true, "The underlying topological space has only one point."]
-  jacobson: [true, "The topological space is a single point, which is closed."]
   cohen-macaulay: [true, "Zero-dimensional local ring, hence Cohen-Macaulay."]

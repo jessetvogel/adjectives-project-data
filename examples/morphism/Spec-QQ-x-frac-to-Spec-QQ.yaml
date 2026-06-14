@@ -7,7 +7,6 @@ with:
 adjectives:
   surjective: [true, The target consists of a single point and the source is non-empty.]
   injective: [true, The source consists of a single point.]
-  open: [true, Any subset of $\Spec \QQ$ is open.]
   closed: [true, Any subset of $\Spec \QQ$ is closed.]
   flat: [true, "$\\QQ(x)$ is flat over $\\QQ$ since every module over a field is free."]
   locally-of-finite-type: [false, "$\\QQ(x)$ is not a finitely generated $\\QQ$-algebra."]
