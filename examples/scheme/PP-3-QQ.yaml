@@ -4,3 +4,4 @@ description: The projective 3-space over the rational numbers.
 
 adjectives:
   noetherian: true
+  regular: [true, "Projective space over a field is smooth, hence regular."]

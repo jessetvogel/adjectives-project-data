@@ -7,3 +7,4 @@ adjectives:
   locally-noetherian: [true, "The ring $\\QQ \\llbracket x \\rrbracket$ is Noetherian."]
   finite-dimensional: [true, "It consists of a single point, so it is zero-dimensional."]
   excellent: [true, Characteristic zero Dedekind rings are excellent. ]
+  regular: [true, "$\\QQ \\llbracket x \\rrbracket$ is a discrete valuation ring, hence a regular local ring."]

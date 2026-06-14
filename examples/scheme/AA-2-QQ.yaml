@@ -6,3 +6,4 @@ adjectives:
   integral: [true, "The ring $\\QQ[x, y]$ is a domain."]
   locally-noetherian: [true, Polynomial rings over a field are Noetherian.]
   finite-dimensional: [true, $\AA^2_\QQ$ has dimension $2$.]
+  regular: [true, Polynomial rings over a field are regular.]
