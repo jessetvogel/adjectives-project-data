@@ -1,0 +1,6 @@
+type: theorem
+name: finite morphisms with affine target are H-projective
+given: morphism f
+if: [f finite, f.target affine]
+then: f h-projective
+description: "If $f : X \\to Y$ is finite with $Y = \\Spec A$ affine, then $X = \\Spec B$ with $B$ a finite $A$-algebra. Choosing generators $b_1, \\ldots, b_n$ of $B$ as an $A$-module gives a surjection of $A$-algebras $A[x_1, \\ldots, x_n] \\to B$, hence a closed immersion $X \\hookrightarrow \\AA^n_Y \\subset \\PP^n_Y$."
