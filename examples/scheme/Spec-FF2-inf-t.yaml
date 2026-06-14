@@ -8,3 +8,4 @@ adjectives:
   irreducible: [true, It has a single point.]
   regular: [true, It is the spectrum of a field.]
   jacobson: [true, "The topological space is a single point, which is closed."]
+  finite-dimensional: [true, Fields are zero-dimensional.]

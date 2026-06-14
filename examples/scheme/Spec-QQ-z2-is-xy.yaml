@@ -7,3 +7,5 @@ adjectives:
   normal: [true]
   locally-factorial: [false, "$\\QQ[x, y, z] / (z^2 - xy)$ is not a UFD since $z^2 = xy$."]
   locally-noetherian: [true, "$\\QQ[x, y, z] / (z^2 - xy)$ is a Noetherian ring."]
+  cohen-macaulay: [true, "Normal varieties of dimension $2$ are Cohen-Macaulay."]
+  finite-dimensional: [true, "$\\Spec \\QQ[x, y, z]/(z^2 - xy)$ has dimension $2$."]

@@ -10,3 +10,4 @@ adjectives:
   locally-projective: true
   projective: false
   flat: false
+  surjective: [true, "The blow-down map is surjective."]
