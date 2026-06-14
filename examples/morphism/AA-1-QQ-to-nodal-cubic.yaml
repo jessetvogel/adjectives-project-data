@@ -8,3 +8,4 @@ adjectives:
   flat: false
   unramified: true
   injective: [false, "The points with $t = \\pm 1$ map to the same point."]
+  surjective: [true, "$\\QQ[t]$ is integral over $\\QQ[x, y]/(y^2 - x^3 - x^2)$ since $t^2 = x + 1$, so every prime of the nodal cubic ring has a prime of $\\QQ[t]$ lying over it by the lying-over theorem."]
