@@ -1,0 +1,6 @@
+type: theorem
+name: surjective injective closed maps are homeomorphisms
+given: morphism f
+if: [f surjective, f injective, f closed]
+then: f homeomorphism
+converse: true

@@ -1,0 +1,6 @@
+type: theorem
+name: surjective injective open maps are homeomorphisms
+given: morphism f
+if: [f surjective, f injective, f open]
+then: f homeomorphism
+converse: true
