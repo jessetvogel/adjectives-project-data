@@ -10,3 +10,4 @@ adjectives:
   surjective: [true, The target consists of a single point and the source is non-empty.]
   finite-fibers: [false, "There is only one fiber, which is infinite."]
   closed: [true, The target is topologically discrete.]
+  locally-of-finite-presentation: [true, "Both copies of $\\AA^2_\\QQ$ are locally of finite presentation over $\\QQ$."]
