@@ -5,3 +5,4 @@ adjectives:
   quasi-compact: [true, Both copies of $\AA^2_\QQ$ are quasi-compact (as they are affine).]
   integral: [true]
   locally-noetherian: [true, Both copies of $\AA^2_\QQ$ are Noetherian.]
+  regular: [true, Both copies of $\AA^2_\QQ$ are regular.]
