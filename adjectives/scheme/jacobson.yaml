@@ -1,2 +1,3 @@
 type: scheme adjective
 name: Jacobson
+description: A scheme $X$ is Jacobson if every closed subset $Z \subseteq X$ is equal to the closure of the set of closed points in $Z$.
