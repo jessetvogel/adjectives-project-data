@@ -8,3 +8,5 @@ adjectives:
   smooth: [false, "The Jacobian matrix corresponding to the presentation $\\QQ[x_1, x_2][y_1, y_2] / (x_1 - y_1 - y_2, x_2 - y_1 y_2)$ is $\\begin{pmatrix} -1 & -1 \\\\ -y_2 & -y_1 \\end{pmatrix}$, which does not have full rank when $y_1 = y_2$."]
   syntomic: [true, "Combine [Stacks 00SR] with [Stacks 00SW]."]
   injective: [false, "Points $(y_1, y_2)$ and $(y_2, y_1)$ map to the same point even when $y_1 \\ne y_2$."]
+  finite-locally-free: [true, "$\\QQ[y_1, y_2] \\cong \\QQ[x_1, x_2][t]/(t^2 - x_1 t + x_2)$ via $t \\mapsto y_1$, which is free of rank $2$ over $\\QQ[x_1, x_2]$ with basis $\\{1, y_1\\}$."]
+  surjective: [true, "The ring map $\\QQ[x_1, x_2] \\hookrightarrow \\QQ[y_1, y_2]$ is an integral extension, so every prime of $\\QQ[x_1, x_2]$ has a prime of $\\QQ[y_1, y_2]$ lying over it by the lying-over theorem."]

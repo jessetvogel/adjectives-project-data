@@ -5,3 +5,4 @@ adjectives:
   affine: [true, "By definition."]
   normal: false
   integral: true
+  cohen-macaulay: [true, "Integral domain of dimension $1$, hence Cohen-Macaulay."]

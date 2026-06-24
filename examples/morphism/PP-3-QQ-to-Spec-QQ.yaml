@@ -1,0 +1,10 @@
+type: morphism
+name: $\PP^3_\QQ \to \Spec \QQ$
+with:
+  source: PP-3-QQ
+  target: Spec-QQ
+adjectives:
+  h-projective: [true, By definition.]
+  smooth: [true]
+  surjective: [true, "The target consists of a single point and the source is non-empty."]
+  unramified: [false]

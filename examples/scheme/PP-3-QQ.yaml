@@ -3,4 +3,6 @@ name: $\PP^3_\QQ$
 description: The projective 3-space over the rational numbers.
 
 adjectives:
-  noetherian: true
+  affine: [false, "Since $\\Spec \\Gamma(\\PP^3_\\QQ, \\mathcal{O}_{\\PP^3_\\QQ}) = \\Spec \\QQ \\not\\cong \\PP^3_\\QQ$."]
+  quasi-affine: [false]
+  integral: [true]

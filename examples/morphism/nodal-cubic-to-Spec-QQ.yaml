@@ -6,3 +6,5 @@ with:
 adjectives:
   flat: [true, Everything is flat over a field.]
   locally-of-finite-presentation: [true, By definition of the nodal cubic.]
+  surjective: [true, The target consists of a single point and the source is non-empty.]
+  injective: [false, The source has more than one point.]

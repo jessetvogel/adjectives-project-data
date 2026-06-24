@@ -1,0 +1,9 @@
+type: scheme
+name: $\Spec \CC[x, y]/(x^2, xy)$
+description: "The coordinate ring of a line with an embedded point at the origin: the line $\\Spec \\CC[y]$ with a nilpotent thickening at $y = 0$."
+adjectives:
+  affine: [true, By definition.]
+  reduced: [false, "The element $x$ is nilpotent: $x^2 = 0$."]
+  irreducible: [true, "The nilradical is $(x)$, which is prime, so the scheme is irreducible."]
+  finite-dimensional: [true, "$\\dim \\CC[x, y]/(x^2, xy) = 1$."]
+  cohen-macaulay: [false, "For $R = \\CC[x, y]/(x^2, xy)$, the maximal ideal $(x, y)$ is an associated prime: $\\mathrm{Ann}(\\bar{x}) = (x, y)$ since $a\\bar{x} = 0$ iff $a \\in (x, y)$. Hence $\\mathrm{depth}(R) = 0 < 1 = \\dim R$."]

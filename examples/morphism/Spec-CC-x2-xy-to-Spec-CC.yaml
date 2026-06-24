@@ -1,0 +1,11 @@
+type: morphism
+name: $\Spec \CC[x, y]/(x^2, xy) \to \Spec \CC$
+description: The structure morphism.
+with:
+  source: Spec-CC-x2-xy
+  target: Spec-CC
+adjectives:
+  flat: [true, Every module over a field is flat.]
+  of-finite-presentation: [true, "By definition."]
+  surjective: [true, The target consists of a single point and the source is non-empty.]
+  injective: [false, "The source has more than one point (e.g. the generic point $(x)$ and the closed point $(x, y)$), but the target has only one point."]

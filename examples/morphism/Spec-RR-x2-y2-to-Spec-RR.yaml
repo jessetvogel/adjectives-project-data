@@ -6,3 +6,5 @@ with:
   target: Spec-RR
 adjectives:
   of-finite-presentation: true
+  surjective: [true, The target consists of a single point and the source is non-empty.]
+  injective: [false, "$\\Spec \\RR[x, y]/(x^2 + y^2)$ has inifintely many points, but the target has only one point."]

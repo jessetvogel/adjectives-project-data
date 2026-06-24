@@ -11,5 +11,6 @@ adjectives:
   locally-of-finite-type: [false, "If $\\QQ$ were to be finitely generated as $\\ZZ$-algebra, then only finitely many prime numbers could appear in the denominators of rational numbers, which is false."]
   open: [false, $\Spec \QQ$ is not open in $\Spec \ZZ$ as any open of $\Spec \ZZ$ is of the form $\Spec \ZZ_n$ for some integer $n$.]
   flat: [true, Localizations are flat.]
+  injective: [true, The source consists of a single point.]
   # formally-unramified: [true, "In the definition of formally unramified, if there exists a lift $\\QQ \\to A$, it must be unique."]
   # formally-smooth: [false, "Find counterexample."]

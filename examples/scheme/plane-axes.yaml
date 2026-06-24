@@ -7,3 +7,5 @@ adjectives:
   irreducible: [false, "The closed subsets corresponding to the ideals $(x)$ and $(y)$ cover the scheme, but neither is the whole scheme."]
   locally-noetherian: [true, "The ring $\\QQ[x, y]/(xy)$ is a quotient of a polynomial ring over a field, hence Noetherian."]
   reduced: [true, "The ring $\\QQ[x, y]/(xy)$ is reduced."]
+  cohen-macaulay: [true, "The element $x + y$ is a non-zerodivisor in $\\QQ[x, y]/(xy)$, giving depth $1 = \\dim$, so Cohen-Macaulay."]
+  normal: [false, "The local ring at the origin is not a domain."]

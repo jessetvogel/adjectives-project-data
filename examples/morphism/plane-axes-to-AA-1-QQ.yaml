@@ -5,10 +5,9 @@ with:
   source: plane-axes
   target: AA-1-QQ
 adjectives:
-  flat: [false]
-  immersion: [false]
   locally-of-finite-presentation: [true, "Clear from the expression $\\QQ[x] \\to \\QQ[x, y]/(xy)$."]
   surjective: true
+  injective: [false, "The fiber over $0 \\in \\AA^1_\\QQ$ is $\\Spec \\QQ[x, y]/(xy) \\otimes_{\\QQ[x]} \\QQ \\cong \\Spec \\QQ[y]$, which has more than one point."]
   universally-closed: [false, "Base change to the map $\\QQ[x, z] \\to \\QQ[x, y, z] / (xy)$. Then the closed subset $\\{ yz - 1 = 0 \\}$ maps to $\\{ x = 0, z \\ne 0 \\}$, which is not closed."]
   
 
