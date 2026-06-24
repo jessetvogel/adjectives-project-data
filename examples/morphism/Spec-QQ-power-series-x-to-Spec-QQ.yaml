@@ -14,5 +14,5 @@ adjectives:
   regular: [true, "The map $\\QQ \\to \\QQ \\llbracket x \\rrbracket$ is flat, and its only fibre is $\\Spec \\QQ \\llbracket x \\rrbracket$, which is geometrically regular over $\\QQ$; hence the morphism is regular by Stacks, More on Morphisms, Lemma 37.21.2."]
   surjective: [true, "Both points of $\\Spec \\QQ \\llbracket x \\rrbracket$ map to the unique point of $\\Spec \\QQ$."]
   closed: [true, "Any morphism to $\\Spec \\QQ$ is closed: the only subsets of $\\Spec \\QQ$ are $\\emptyset$ and $\\Spec \\QQ$, both closed."]
-  open: [true, "Surjective morphism to $\\Spec \\QQ$: the image of any non-empty open is the whole target."]
+  open: [true, "Any morphism to $\\Spec \\QQ$ is open: the only subsets of $\\Spec \\QQ$ are $\\emptyset$ and $\\Spec \\QQ$, both open."]
 
